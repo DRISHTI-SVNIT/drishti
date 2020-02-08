@@ -1,0 +1,27 @@
+.navbar-nav{
+    font-family: Arial;
+    font-size: 20px;
+}
+/*.drop1{
+    font-family: Helvetica;
+    font-weight: bold;
+}
+.drop2{
+    font-family: Helvetica;
+    font-weight: bold;
+}
+.drop3{
+    font-family: Helvetica;
+    font-weight: bold;
+}*/
+.con{
+   border:2px solid transparent;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.contact{
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
