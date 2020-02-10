@@ -25,3 +25,14 @@
     padding-right: 90px;
 }
 
+@media (min-width: 700px) {
+    .navbar-expand-sm{
+        -ms-flex-flow: row nowrap;
+        flex-flow: row nowrap;
+        -ms-flex-pack: start;
+        justify-content: right;
+    }
+}
+body{
+    background-color: aliceblue;
+}
