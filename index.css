@@ -1,0 +1,253 @@
+html
+{
+    overflow-x: hidden;
+}
+body
+{
+    overflow-x: hidden;
+}
+.r
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+}
+@media(max-width:870px)
+{
+    .r
+    {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+@media(max-width:550px)
+{
+    .r
+    {
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 10px;
+    }
+}
+@media(max-width:978px)
+{
+    .hello
+    {
+        padding-top: 50px;
+    }
+}
+@media(max-width:978px)
+{
+    .hello1
+    {
+        padding-top: 80px;
+    }
+}
+.typed
+{
+    color:white;
+     font-size: 60px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     text-align: center;
+}
+@media(max-width:680px)
+{
+    .typed{
+        font-size: 50px;
+        text-align: center;
+    }
+}
+.navbar
+{
+    font-size: 22px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.carosel
+{
+    padding-top: 20px;
+}
+.bg
+{
+    background-position:center;
+    text-align:center;
+    width:auto;
+    background-size:cover;
+    background-attachment: fixed;"
+}
+@media(max-width:700px)
+{
+    .bg
+    {  
+        background-position:center;
+        text-align:center;
+        width:auto;
+        background-size:cover;
+        background-attachment: fixed;"
+    }
+}
+@media (max-width: 550px) { 
+    .hello4{
+        height: 300px;
+    }
+}
+@media (max-width: 550px) { 
+    .hello5{
+        height: 300px;
+    }
+}
+@media (max-width: 550px) { 
+    .hello6{
+        height: 300px;
+    }
+}
+.what
+{
+    background-color: rgb(255,255,255,0.5);
+    background-image:url('images/complete.png') ;
+     height:max-content;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-blend-mode:soft-light;
+     width: auto;
+     text-align: center;
+     background-position:center;
+}
+.who
+{
+    padding-right: 30px;
+    padding-left:30px;
+}
+.h
+{
+    text-align: center;
+    font-size: 60px;
+    color:rgb(108, 110, 211);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top: 40px;
+}
+@media(max-width:500px)
+{
+    .h
+    {
+        text-align: center;
+        font-size: 50px;
+        color:rgb(108, 110, 211);
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        padding-top: 40px;
+    }
+}
+.h1
+{
+    text-align: center;
+     font-size: 35px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     padding-top: 20px;padding-bottom: 80px;"
+}
+@media(max-width:500px)
+{
+    .h1
+    {
+        text-align:center;
+     font-size: 30px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     padding-top: 20px;padding-bottom: 80px;"
+    }
+}
+/*---------------------------*/
+.dob .x
+{
+    color:white;
+     padding-top:30px;
+}
+@media(max-width:800px)
+{
+    .dob .x{
+        padding-top:4px;
+    }
+}
+.dob
+{
+    padding-left: 50px;
+     padding-top: 50px;
+    padding-right: 50px;
+}
+@media(max-width:450px)
+{
+    .dob
+    {
+        padding-right: 0px;
+        padding-left:0px;
+    }
+}
+.drishti
+{
+    font-size:150px; 
+    color: white;font-weight:480;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+@media(max-width:800px)
+{
+    .drishti{
+        font-size: 80px;
+        color: white;font-weight:500;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+}
+@media(max-width:449px)
+{
+    .drishti{
+        font-size: 40px;
+        color: white;font-weight:500;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+}
+.h2
+{
+    text-align: center;
+     font-size: 60px; 
+     padding-top: 100px;
+      color:black;
+      font-weight: 530;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.h3
+{
+    text-align: center; 
+    font-size: 35px;
+    font-weight:530;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black;"
+}
+.h4
+{
+    padding-top: 150px; 
+    text-align: center;
+    font-size: 60px; 
+    padding-top: 100px;
+     color:black;
+     font-weight: 530;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+@media(max-width:500px)
+{
+    .h2
+    {
+        font-size: 50px;
+    }
+    .h4
+    {
+        font-size: 50px;
+    }
+}
+@media(max-width:500px)
+{
+    .h3
+    {
+        font-size: 30px;
+    }
+}
