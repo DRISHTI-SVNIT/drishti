@@ -108,17 +108,17 @@
     .demo .main-title {
         text-transform: uppercase;
         font-size:70px;
-        font-weight: 520;
+        font-weight: 545;
         letter-spacing: 0.1em;
         font-family: Georgia, 'Times New Roman', Times, serif;
      }
      .main-title
      {
-         top:27%;
+         top:23%;
      }
      .demo .main-title-2
      {
-         top:35%;
+         top:30%;
          font-size: 40px;
          text-align: center;
      }
