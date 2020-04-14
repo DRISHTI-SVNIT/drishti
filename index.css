@@ -211,7 +211,7 @@ body
      font-size: 60px; 
      padding-top: 100px;
       color:black;
-      font-weight: 530;
+     /* font-weight: 530;*/
       font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .h3
@@ -229,7 +229,7 @@ body
     font-size: 60px; 
     padding-top: 100px;
      color:black;
-     font-weight: 530;
+     /*font-weight: 530;*/
      font-family:Georgia, 'Times New Roman', Times, serif;
     
 }
