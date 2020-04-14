@@ -104,7 +104,7 @@ body
 .what
 {
     background-color: rgb(255,255,255,0.5);
-    background-image:url('images/complete.png') ;
+    background-image:url('images/complete.jpg') ;
      height:max-content;
      background-repeat: no-repeat;
      background-size: cover;
@@ -218,7 +218,7 @@ body
 {
     text-align: center; 
     font-size: 35px;
-    font-weight:530;
+    /*font-weight:530;*/
     font-family:Georgia, 'Times New Roman', Times, serif;
     color:black;"
 }
@@ -249,5 +249,18 @@ body
     .h3
     {
         font-size: 30px;
+    }
+}
+.im
+{
+    height:90px;
+    width:200px;
+}
+@media(max-width:400px)
+{
+    .im
+    {
+        height:80px;
+        width:150px;
     }
 }
