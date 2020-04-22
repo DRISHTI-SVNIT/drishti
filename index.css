@@ -88,17 +88,17 @@ body
 }
 @media (max-width: 550px) { 
     .hello4{
-        height: 300px;
+        height: 250px;
     }
 }
 @media (max-width: 550px) { 
     .hello5{
-        height: 300px;
+        height: 250px;
     }
 }
 @media (max-width: 550px) { 
     .hello6{
-        height: 300px;
+        height: 250px;
     }
 }
 .what
@@ -151,7 +151,8 @@ body
         text-align:center;
      font-size: 30px;
      font-family:Georgia, 'Times New Roman', Times, serif;
-     padding-top: 20px;padding-bottom: 80px;"
+     padding-top: 20px;
+     padding-bottom: 80px;
     }
 }
 /*---------------------------*/
@@ -211,7 +212,7 @@ body
      font-size: 60px; 
      padding-top: 100px;
       color:black;
-     /* font-weight: 530;*/
+      /*font-weight: 530;*/
       font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .h3
@@ -220,7 +221,7 @@ body
     font-size: 35px;
     /*font-weight:530;*/
     font-family:Georgia, 'Times New Roman', Times, serif;
-    color:black;"
+    color:black;
 }
 .h4
 {
@@ -253,14 +254,14 @@ body
 }
 .im
 {
-    height:90px;
-    width:200px;
+    height:100px;
+    width:260px;
 }
 @media(max-width:400px)
 {
     .im
     {
         height:80px;
-        width:150px;
+        width:170px;
     }
 }
