@@ -111,9 +111,21 @@ h2
   {
     background-image: url('images/top2.jpg');
   }
-@media(max-width:460px)
+  @media(max-width:460px)
   {
       h2
+      {
+          font-weight: normal;
+      }
+  }
+  .push
+  {
+    font-weight: 530; 
+    font-size:20px;
+  }
+  @media(max-width:450px)
+  {
+      .push
       {
           font-weight: normal;
       }
