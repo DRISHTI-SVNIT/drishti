@@ -99,12 +99,22 @@ body
     color: white;
     transform: rotateY(180deg);
   }
-  .heading
+  .con .heading
   {
     padding-top: 30px;
     text-align: center;
     text-transform: uppercase;
     font-size: 80px;
+  }
+  @media(max-width:400px)
+  {
+    .con .heading
+  {
+    padding-top: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 60px;
+  }
   }
   @media(max-width:945px)
   {
@@ -123,4 +133,12 @@ body
     {
       padding-top: 0px;
     }
+  }
+  .dropdown-menu
+  {
+    background-image: url('images/top.jpg');
+  }
+  .it
+  {
+    color: white;
   }
