@@ -133,3 +133,35 @@ body
   {
     background-image: url('images/top2.jpg');
   }
+  @media(max-width:460px)
+  {
+      .container
+      {
+          font-weight: 900;
+      }
+  }
+  .he
+  {
+    text-align: left;
+    font-weight: 520;
+  }
+  @media(max-width:460px)
+  {
+      .he
+      {
+          font-weight: 900;
+      }
+  }
+  .he-inner
+  {
+  text-align: justify;
+  font-size: 25px;
+  font-weight: 530;
+  }
+  @media(max-width:460px)
+  {
+      .he-inner
+      {
+          font-weight: 900;
+      }
+  }
