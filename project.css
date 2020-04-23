@@ -111,3 +111,10 @@ h2
   {
     background-image: url('images/top2.jpg');
   }
+@media(max-width:460px)
+  {
+      h2
+      {
+          font-weight: normal;
+      }
+  }
