@@ -155,6 +155,18 @@ body
      padding-bottom: 80px;
     }
 }
+@media(max-width:400px)
+{
+    .h1
+    {
+        text-align:justify;
+     font-size: 30px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     padding-top: 20px;
+     padding-bottom: 80px;
+     text-justify: auto;
+    }
+}
 /*---------------------------*/
 .dob .x
 {
@@ -265,3 +277,11 @@ body
         width:170px;
     }
 }
+.dropdown-menu
+  {
+    background-image: url('images/top.jpg');
+  }
+  .it
+  {
+    color: white;
+  }
