@@ -1,0 +1,113 @@
+html
+{
+    overflow-x: hidden;
+}
+body
+{
+    overflow-x: hidden;
+    font-family: 'Times New Roman', Times, serif;
+}
+p
+{
+    text-align: justify; 
+    font-size:larger;
+}
+h2
+{
+    font-weight: 530;
+}
+.underline
+{
+    height: 5px;
+    background-color: black;
+}
+.navbar
+{
+    font-size: 22px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.line
+{
+    padding-top: 50px;
+}
+.con
+{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+@media(max-width:750px)
+{
+    .con
+    {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+}
+@media(max-width:450px)
+{
+    .con
+    {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+.bottom
+{
+    padding-bottom: 50px;
+}
+@media(max-width:978px)
+{
+    .hello
+    {
+        padding-top: 50px;
+    }
+}
+@media(max-width:978px)
+{
+    .hello1
+    {
+        padding-top: 80px;
+    }
+}
+.dob .x
+{
+    color:white;
+     padding-top:30px;
+}
+@media(max-width:800px)
+{
+    .dob .x{
+        padding-top:4px;
+    }
+}
+.dob
+{
+    padding-left: 50px;
+     padding-top: 50px;
+    padding-right: 50px;
+}
+@media(max-width:450px)
+{
+    .dob
+    {
+        padding-right: 0px;
+        padding-left:0px;
+    }
+}
+.im
+{
+    height:110px;
+    width:210px;
+}
+@media(max-width:400px)
+{
+    .im
+    {
+        height:80px;
+        width:150px;
+    }
+}
+.dropdown-menu
+  {
+    background-image: url('images/top2.jpg');
+  }

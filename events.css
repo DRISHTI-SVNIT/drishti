@@ -1,0 +1,135 @@
+html
+{
+    overflow-x: hidden;
+}
+body
+{
+    overflow-x: hidden;
+    font-family:Georgia, 'Times New Roman', Times, serif;   
+}
+.underline
+{
+    height: 5px;
+    background-color: black;
+}
+.navbar
+{
+    font-size: 22px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.makerspace
+{
+    padding-bottom: 100px;
+}
+.grp
+{
+    padding-bottom: 100px;
+}
+.orientation
+{
+    padding-bottom:100px;
+}
+.workshop
+{
+    padding-bottom: 100px;
+}
+.img1
+{
+    padding-top: 0px;
+}
+@media(max-width:764px)
+{
+    .img1
+    {
+        padding-top: 50px;
+    }
+}
+@media(max-width:978px)
+{
+    .hello
+    {
+        padding-top: 50px;
+    }
+}
+@media(max-width:978px)
+{
+    .hello1
+    {
+        padding-top: 100px;
+    }
+}
+.dob .x
+{
+    color:white;
+     padding-top:30px;
+}
+@media(max-width:800px)
+{
+    .dob .x{
+        padding-top:4px;
+    }
+}
+.dob
+{
+    padding-left: 50px;
+     padding-top: 50px;
+    padding-right: 50px;
+}
+@media(max-width:450px)
+{
+    .dob
+    {
+        padding-right: 0px;
+        padding-left:0px;
+    }
+}
+.im
+{
+    height:110px;
+    width:210px;
+}
+@media(max-width:400px)
+{
+    .im
+    {
+        height:80px;
+        width:150px;
+    }
+}
+.style
+{
+    text-align: left;
+}
+@media(max-width:600px)
+{
+    .style
+    {
+        text-align:center;
+    }
+}
+.img1 .wo
+{
+    padding-top: 120px;
+}
+@media(max-width:750px)
+{
+    .img1 .wo
+{
+    padding-top: 0px;
+}
+}
+.img1 .mini
+{
+    padding-top: 80px;
+}
+@media(max-width:750px)
+{
+    .img1 .mini
+{
+    padding-top: 0px;
+}
+}
+.dropdown-menu
+  {
+    background-image: url('images/top2.jpg');
+  }
