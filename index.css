@@ -155,7 +155,7 @@ body
      padding-bottom: 80px;
     }
 }
-@media(max-width:400px)
+/*@media(max-width:400px)
 {
     .h1
     {
@@ -166,8 +166,7 @@ body
      padding-bottom: 80px;
      text-justify: auto;
     }
-}
-/*---------------------------*/
+}*/
 .dob .x
 {
     color:white;
