@@ -7,35 +7,21 @@ body
     overflow-x: hidden;
     font-family: 'Times New Roman', Times, serif;
 }
-.back
-{
-    background-image: url('images/events.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: (255,255,255,0.1);
-    background-blend-mode:lighten; 
-    max-width: 100%;
-}
-@media(max-width:460px)
-  {
-    .back
-    {
-        background-image: url('images/top2.jpg');
-        background-repeat:y-repeat;
-        /*background-size: cover;
-        background-color: (255,255,255,0.1);*/
-        background-blend-mode:darken; 
-        max-width: 100%;
-    } 
-  }
 p
 {
     text-align: justify; 
     font-size:larger;
+   
 }
+.back
+{
+    background-color: wheat;
+}
+
 h2
 {
     font-weight: 530;
+   
 }
 .underline
 {
@@ -130,7 +116,7 @@ h2
 }
 .dropdown-menu
   {
-    background-image: url('images/top2.jpg');
+    background-color: wheat;
   }
   @media(max-width:460px)
   {
@@ -151,3 +137,4 @@ h2
           font-weight: normal;
       }
   }
+ 
