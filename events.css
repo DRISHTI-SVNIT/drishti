@@ -7,6 +7,27 @@ body
     overflow-x: hidden;
     font-family:Georgia, 'Times New Roman', Times, serif;   
 }
+.back
+{
+    background-image: url('images/events.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: (255,255,255,0.1);
+    background-blend-mode:lighten; 
+    max-width: 100%;
+}
+@media(max-width:460px)
+  {
+    .back
+    {
+        background-image: url('images/event2.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: (255,255,255,0.1);
+        background-blend-mode:lighten; 
+        max-width: 100%;
+    } 
+  }
 .underline
 {
     height: 5px;
