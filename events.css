@@ -20,11 +20,11 @@ body
   {
     .back
     {
-        background-image: url('images/event2.jpg');
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-color: (255,255,255,0.1);
-        background-blend-mode:lighten; 
+        background-image: url('images/top2.jpg');
+        background-repeat:y-repeat;
+        /*background-size: cover;
+        background-color: (255,255,255,0.1);*/
+        background-blend-mode:darken; 
         max-width: 100%;
     } 
   }
