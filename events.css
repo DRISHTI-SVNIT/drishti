@@ -9,25 +9,8 @@ body
 }
 .back
 {
-    background-image: url('images/events.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: (255,255,255,0.1);
-    background-blend-mode:lighten; 
-    max-width: 100%;
+    background-color: wheat;
 }
-@media(max-width:460px)
-  {
-    .back
-    {
-        background-image: url('images/top2.jpg');
-        background-repeat:y-repeat;
-        /*background-size: cover;
-        background-color: (255,255,255,0.1);*/
-        background-blend-mode:darken; 
-        max-width: 100%;
-    } 
-  }
 .underline
 {
     height: 5px;
@@ -71,9 +54,6 @@ body
     {
         padding-top: 50px;
     }
-}
-@media(max-width:978px)
-{
     .hello1
     {
         padding-top: 100px;
@@ -132,40 +112,32 @@ body
 {
     padding-top: 120px;
 }
-@media(max-width:750px)
-{
-    .img1 .wo
-{
-    padding-top: 0px;
-}
-}
+
 .img1 .mini
 {
     padding-top: 80px;
 }
 @media(max-width:750px)
 {
+    .img1 .wo
+        {
+            padding-top: 0px;
+        }
+
     .img1 .mini
-{
-    padding-top: 0px;
-}
+        {
+            padding-top: 0px;
+        }
 }
 .dropdown-menu
   {
-    background-image: url('images/top2.jpg');
+    background-color: wheat;
   }
   
   .he
   {
     text-align: left;
     font-weight: 520;
-  }
-  @media(max-width:460px)
-  {
-      .he
-      {
-          font-weight: normal;
-      }
   }
   .he-inner
   {
@@ -175,6 +147,10 @@ body
   }
   @media(max-width:460px)
   {
+    .he
+    {
+        font-weight: normal;
+    }
       .he-inner
       {
           font-weight: normal;
