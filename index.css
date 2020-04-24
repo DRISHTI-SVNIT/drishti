@@ -133,6 +133,15 @@ body
     padding-right: 30px;
     padding-left:30px;
 }
+@media(max-width:460px)
+{
+    .who
+    {
+        border: 1px solid black;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
 .h
 {
     text-align: center;
