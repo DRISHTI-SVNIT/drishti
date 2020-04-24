@@ -101,6 +101,21 @@ body
         height: 250px;
     }
 }
+@media (max-width: 460px) { 
+    .hello4{
+        height: 300px;
+    }
+}
+@media (max-width: 460px) { 
+    .hello5{
+        height: 300px;
+    }
+}
+@media (max-width: 460px) { 
+    .hello6{
+        height: 300px;
+    }
+}
 .what
 {
     background-color: rgb(255,255,255,0.5);
