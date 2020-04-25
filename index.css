@@ -45,6 +45,14 @@ body
         padding-top: 80px;
     }
 }
+.a1
+{
+    padding-bottom: 15px;
+}
+.a2
+{
+    padding-bottom: 15px;
+}
 .typed
 {
     color:white;
@@ -242,6 +250,14 @@ body
      text-align:center;
      font-size: 22px;
      font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .a1
+{
+    padding-bottom: 0px;
+}
+.a2
+    {
+        padding-bottom: 0px;
     }
 }
 .dob .x
