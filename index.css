@@ -4,9 +4,7 @@ html
 }
 body
 {
-    overflow-x: hidden;
- 
-    
+    overflow-x: hidden;  
 }
 .r
 {
@@ -20,6 +18,7 @@ body
     {
         padding-left: 10px;
         padding-right: 10px;
+        
     }
 }
 @media(max-width:550px)
@@ -70,11 +69,11 @@ body
 {
     padding-top: 20px;
 }
-@media(max-width:500px)
+@media(max-width:450px)
 {
     .carosel
         {
-            padding-top: 0px;
+            padding-top: 1px;
         }
 }
 .bg
@@ -207,7 +206,7 @@ body
         
         padding-right: 20px;
         padding-left:20px;
-        padding-top: 100px;
+        padding-top: 30px;
         padding-bottom: 50px;
     }
     .h11
@@ -217,11 +216,11 @@ body
         padding-bottom: 40px;
         padding-left: 1px;
         padding-right: 1px;
-       /* background-color:rgba(0, 0, 0, 0.9);*/
+        background-color:rgba(0, 0, 0, 0.75);
     }
     .h12
     {
-       /* background-color:/*rgba(29, 29, 243, 0.9);rgb(76, 83, 217);*/
+        background-color:/*rgba(29, 29, 243, 0.9);*/rgba(76, 83, 217,0.75);
         font-size: 45px;
         padding-top: 40px;
         padding-bottom: 40px;
@@ -230,7 +229,7 @@ body
     }
     .h13
     {
-        /*background-color:rgba(0, 0, 0, 0.90);*/
+        background-color:rgba(0, 0, 0, 0.75);
         font-size: 45px;
         padding-top: 30px;
         padding-bottom: 30px;
