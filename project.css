@@ -13,13 +13,12 @@ p
     font-size:larger;
    
 }
-.card-body
-{
-background-color: black; color: white;
-}
 .back
 {
-    background-image:url('images/top.jpg');
+    background-image: url('images/s.jpg');
+    background-blend-mode: lighten;
+    background-color: rgba(255, 255, 255, 0.8);
+    
 }
 
 h2
@@ -120,7 +119,9 @@ h2
 }
 .dropdown-menu
   {
-    background-color: wheat;
+    background-image: url('images/s.jpg');
+    background-blend-mode: lighten;
+    background-color: rgba(255, 255, 255, 0.8);
   }
   @media(max-width:460px)
   {
