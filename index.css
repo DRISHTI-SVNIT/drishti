@@ -69,6 +69,13 @@ body
 {
     padding-top: 20px;
 }
+@media(max-width:500px)
+{
+    .carosel
+        {
+            padding-top: 0px;
+        }
+}
 .bg
 {
     background-position:center;
