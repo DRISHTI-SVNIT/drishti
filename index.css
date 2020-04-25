@@ -5,6 +5,7 @@ html
 body
 {
     overflow-x: hidden;
+    background-color: beige;
     
 }
 .r
@@ -91,13 +92,11 @@ body
     .hello4{
         height: 250px;
     }
-}
-@media (max-width: 550px) { 
+
     .hello5{
         height: 250px;
     }
-}
-@media (max-width: 550px) { 
+ 
     .hello6{
         height: 250px;
     }
@@ -106,13 +105,10 @@ body
     .hello4{
         height: 300px;
     }
-}
-@media (max-width: 460px) { 
+
     .hello5{
         height: 300px;
-    }
-}
-@media (max-width: 460px) { 
+    } 
     .hello6{
         height: 300px;
     }
@@ -124,6 +120,7 @@ body
     padding-left:80px;
     padding-top: 100px;
     padding-bottom: 100px;
+    
 }
 .who .card
 {
@@ -198,6 +195,7 @@ body
     }
     .who
     {
+        
         padding-right: 20px;
         padding-left:20px;
         padding-top: 80px;
@@ -210,11 +208,11 @@ body
         padding-bottom: 40px;
         padding-left: 1px;
         padding-right: 1px;
-        background-color:rgba(0, 0, 0, 0.90);
+        background-color:rgba(0, 0, 0, 0.9);
     }
     .h12
     {
-        background-color:rgba(29, 29, 243, 0.9);
+        background-color:/*rgba(29, 29, 243, 0.9);*/rgb(76, 83, 217);
         font-size: 45px;
         padding-top: 40px;
         padding-bottom: 40px;
