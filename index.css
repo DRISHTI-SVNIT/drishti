@@ -5,7 +5,7 @@ html
 body
 {
     overflow-x: hidden;
-    background-color: beige;
+ 
     
 }
 .r
@@ -120,6 +120,7 @@ body
     padding-left:80px;
     padding-top: 100px;
     padding-bottom: 100px;
+    background-color: beige;
     
 }
 .who .card
@@ -198,7 +199,7 @@ body
         
         padding-right: 20px;
         padding-left:20px;
-        padding-top: 80px;
+        padding-top: 100px;
         padding-bottom: 50px;
     }
     .h11
