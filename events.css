@@ -1,15 +1,22 @@
 html
 {
     overflow-x: hidden;
+    
 }
 body
 {
     overflow-x: hidden;
     font-family:Georgia, 'Times New Roman', Times, serif;   
+   
 }
 .back
 {
-    background-color: wheat;
+    background-image: url('images/s.jpg');
+   /*background-size: cover;*/
+   background-blend-mode: lighten;
+    background-color: rgba(255, 255, 255, 0.8);
+   
+   
     
 }
 .underline
@@ -132,7 +139,9 @@ body
 }
 .dropdown-menu
   {
-    background-color: wheat;
+    background-image: url('images/s.jpg');
+    background-blend-mode: lighten;
+    background-color: rgba(255, 255, 255, 0.8);
   }
   
   .he
