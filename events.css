@@ -10,6 +10,7 @@ body
 .back
 {
     background-color: wheat;
+    
 }
 .underline
 {
@@ -145,6 +146,10 @@ body
   font-size: 25px;
   font-weight: 530;
   }
+  .sur
+  {
+      padding-top: 20px;
+  }
   @media(max-width:460px)
   {
     .he
@@ -155,4 +160,9 @@ body
       {
           font-weight: normal;
       }
+      .sur
+      {
+          padding-top: 0px;
+      }
   }
+ 
