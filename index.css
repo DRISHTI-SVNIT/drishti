@@ -131,7 +131,7 @@ body
 }
 .h11
 {   
-    background-color: rgba(0, 0, 0, 0.75);;
+    background-color: rgba(0, 0, 0, 0.75);
     color: white;
     text-align: center;
     font-size: 50px;
@@ -144,7 +144,7 @@ body
 }
 .h12
 {   
-    background-color:rgba(0, 0, 255, 0.7);
+    background-color:rgba(29, 29, 243, 0.9);
     color: white;
     text-align: center;
     font-size: 50px;
@@ -200,24 +200,24 @@ body
     {
         padding-right: 20px;
         padding-left:20px;
-        padding-top: 50px;
+        padding-top: 80px;
         padding-bottom: 50px;
     }
     .h11
     {
         font-size: 45px;
-        padding-top: 30px;
-        padding-bottom: 30px;
+        padding-top: 40px;
+        padding-bottom: 40px;
         padding-left: 1px;
         padding-right: 1px;
         background-color:rgba(0, 0, 0, 0.90);
     }
     .h12
     {
-        background-color:rgba(29, 29, 238, 0.9);
+        background-color:rgba(29, 29, 243, 0.9);
         font-size: 45px;
-        padding-top: 30px;
-        padding-bottom: 30px;
+        padding-top: 40px;
+        padding-bottom: 40px;
         padding-left: 1px;
         padding-right: 1px;
     }
