@@ -13,6 +13,10 @@ p
     font-size:larger;
    
 }
+.card-body
+{
+background-color: black; color: white;
+}
 .back
 {
     background-color: wheat;
