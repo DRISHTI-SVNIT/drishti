@@ -23,7 +23,7 @@ body
     margin-left: auto;
     margin-right: auto;
     display: inline-block;
-    height: 90px;
+    height: 80px;
     width: auto;
 }
 @media(max-width:870px)
