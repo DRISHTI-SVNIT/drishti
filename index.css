@@ -20,7 +20,7 @@ body
     margin-left: 0%;
 }
 .nit_photo {
-    margin-left: auto;
+    margin-left: 0%;
     margin-right: auto;
     display: inline-block;
     height: 80px;
@@ -215,6 +215,13 @@ body
 }
 @media(max-width:500px)
 {
+    .v1 {
+        height: 40px;
+        border-left: 1px solid white;
+        top : 0;
+        margin-right: 2%;
+        margin-left: 0%;
+    }
     .a
     {
       padding-bottom: 20px;  
@@ -308,6 +315,13 @@ body
 }
 @media(max-width:800px)
 {
+    .v1 {
+        height: 50px;
+        border-left: 1px solid white;
+        top : 0;
+        margin : 0%;
+        margin-left: 0%;
+    }
     .drishti{
         font-size: 80px;
         color: white;font-weight:500;
@@ -351,7 +365,6 @@ body
         margin-left: 0%;
     }
     .nit_photo {
-        margin-left: 5%;
         height: 60px;
         width: auto;
     }
