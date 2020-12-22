@@ -19,6 +19,13 @@ body
     top : 0;
     margin-left: 0%;
 }
+.v2 {
+    height: 60px;
+    border-left: 1px solid black;
+    position: relative;
+    top : 0;
+    margin-left: 0%;
+}
 .nit_photo {
     margin-left: 0%;
     margin-right: auto;
@@ -222,6 +229,13 @@ body
         margin-right: 2%;
         margin-left: 0%;
     }
+    .v2 {
+        height: 40px;
+        border-left: 1px solid black;
+        top : 0;
+        margin-right: 2%;
+        margin-left: 0%;
+    }
     .a
     {
       padding-bottom: 20px;  
@@ -322,6 +336,13 @@ body
         margin : 0%;
         margin-left: 0%;
     }
+    .v2 {
+        height: 50px;
+        border-left: 1px solid black;
+        top : 0;
+        margin : 0%;
+        margin-left: 0%;
+    }
     .drishti{
         font-size: 80px;
         color: white;font-weight:500;
@@ -360,6 +381,13 @@ body
     .v1 {
         height: 40px;
         border-left: 1px solid white;
+        top : 0;
+        margin-right: 2%;
+        margin-left: 0%;
+    }
+    .v2 {
+        height: 40px;
+        border-left: 1px solid black;
         top : 0;
         margin-right: 2%;
         margin-left: 0%;

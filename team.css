@@ -17,15 +17,20 @@ body
 }
 .im
 {
-    height:100px;
-    width:260px;
+    /* height:100px; */
+    /* width:260px; */
+    width: 180px;
+    height: auto;
 }
 @media(max-width:400px)
 {
     .im
     {
-        height:80px;
-        width:170px;
+        /* height:70px; */
+        /* width:150px; */
+        width: 130px;
+        height: auto;
+        margin-right: 0%;
     }
 }
 .underline
