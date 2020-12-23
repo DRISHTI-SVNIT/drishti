@@ -94,15 +94,16 @@ body
 }
 .im
 {
-    height:110px;
-    width:210px;
+    width: 180px;
+    height: auto;
 }
 @media(max-width:400px)
 {
     .im
     {
-        height:80px;
-        width:150px;
+        width: 130px;
+        height: auto;
+        margin-right: 0%;
     }
 }
 .style
