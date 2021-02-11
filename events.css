@@ -29,6 +29,10 @@ body
     font-size: 22px;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
+.workshop_2021
+{
+    padding-bottom: 100px;
+}
 .makerspace
 {
     padding-bottom: 100px;
@@ -121,6 +125,10 @@ body
 {
     padding-top: 120px;
 }
+.img1 .vo
+{
+    padding-top: 30px;
+}
 
 .img1 .mini
 {
@@ -132,6 +140,11 @@ body
         {
             padding-top: 0px;
         }
+
+    .img1 .vo 
+    {
+        padding-top: 0px;
+    }
 
     .img1 .mini
         {
