@@ -63,6 +63,16 @@
         margin-top: 40px!important;
         margin-left: 100px!important;
     } */
+    .callout {
+        position: absolute;
+        bottom: 35px;
+        /* right: 20px; */
+        margin-left: 0px;
+        margin-right: 25px;
+        display: block;
+        max-width: 350px;
+        box-shadow: 0px 0px 10px white;
+    }
     .callout-header {
         font-size: 25px;
       }
