@@ -36,6 +36,8 @@
     justify-content: center;
     display: flex;
     align-items: center;
+    vertical-align: middle;
+    line-height: normal;
     text-align: center;
     animation: animate 2s steps(5, start) infinite;
     -webkit-animation: animate 2s steps(5, start) infinite;
