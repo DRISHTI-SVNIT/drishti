@@ -23,10 +23,10 @@
 .callouts{
     /* display: inline-block; */
     position: absolute;
-    bottom: 80px;
-    right: 20px;
+    bottom: 70px;
+    right: 50px;
     margin-left: 20px;
-    max-width: 300px;
+    max-width: 270px;
     height: 90px;
     padding: 15px;
     background-color: white;
@@ -36,10 +36,21 @@
     justify-content: center;
     display: flex;
     align-items: center;
-    text-align: left;
-    animation: blink-animation 1s steps(5, start) infinite;
-    -webkit-animation: blink-animation 1s steps(5, start) infinite;
+    text-align: center;
+    animation: animate 2s steps(5, start) infinite;
+    -webkit-animation: animate 2s steps(5, start) infinite;
 }
+@keyframes animate{ 
+    0%{ 
+      opacity: 1; 
+    } 
+    50%{ 
+      opacity: 0.3; 
+    } 
+    100%{ 
+      opacity: 1; 
+    } 
+  } 
 /* .callouts--right:before {
     content: "";
     position: absolute;
@@ -93,6 +104,19 @@
       .callout-container {
         font-size: 15px;
       }
+}
+@media(max-width : 550px) {
+    .callouts {
+        left: 18%;
+        right: 8%;
+    }
+}
+
+@media(max-width : 450px) {
+    .callouts {
+        left: 11%;
+        right: 10%;
+    }
 }
 
 .callout::before {
