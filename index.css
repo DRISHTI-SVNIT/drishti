@@ -5,21 +5,64 @@
     margin-left: 20px;
     max-width: 350px;
     box-shadow: 0px 0px 10px white;
-  }
+}
   
-  .callout-header {
+.callout-header {
     padding: 15px 15px;
     background: #555;
     font-size: 30px;
     color: white;
-  }
+}
   
-  .callout-container {
+.callout-container {
     padding: 15px;
     background-color: #ccc;
     font-size: 20px;
     color: black
-  }
+}
+.callouts{
+    /* display: inline-block; */
+    position: absolute;
+    bottom: 80px;
+    right: 20px;
+    margin-left: 20px;
+    max-width: 300px;
+    height: 90px;
+    padding: 15px;
+    background-color: white;
+    border: 3px solid #c1c1c1;
+    border-radius: 40px;
+    box-shadow: 0 0 20px black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    animation: blink-animation 1s steps(5, start) infinite;
+    -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+/* .callouts--right:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    right:0px;
+    bottom: 35px;
+    border: 10px solid transparent;
+    border-left: 32px solid rgb(193,193,193);
+    border-left: 32px solid rgba(193,193,193,0.5);
+    z-index: 2;
+}
+.callouts--right:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    right:0px;
+    bottom: 35px;
+    border: 10px solid transparent;
+    border-left: 24px solid #fff;
+    z-index: 3;
+} */
 
 @media(max-width : 550px) {
     div.callout {
