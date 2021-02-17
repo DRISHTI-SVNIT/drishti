@@ -33,6 +33,10 @@ body
 {
     padding-bottom: 100px;
 }
+.technovation
+{
+    padding-bottom: 100px;
+}
 .makerspace
 {
     padding-bottom: 100px;
@@ -127,7 +131,11 @@ body
 }
 .img1 .vo
 {
-    padding-top: 30px;
+    padding-top: 0px;
+}
+.img1 .tc
+{
+    padding-top: 150px;
 }
 
 .img1 .mini
@@ -142,6 +150,10 @@ body
         }
 
     .img1 .vo 
+    {
+        padding-top: 0px;
+    }
+    .img1 .tc
     {
         padding-top: 0px;
     }
