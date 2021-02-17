@@ -127,7 +127,7 @@ body
 }
 .img1 .wo
 {
-    padding-top: 120px;
+    padding-top: 10px;
 }
 .img1 .vo
 {
@@ -135,12 +135,12 @@ body
 }
 .img1 .tc
 {
-    padding-top: 50px;
+    padding-top: 70px;
 }
 
 .img1 .mini
 {
-    padding-top: 80px;
+    padding-top: 10px;
 }
 @media(max-width:750px)
 {
