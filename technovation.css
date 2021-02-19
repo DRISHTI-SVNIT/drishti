@@ -60,6 +60,47 @@ body
     text-transform: uppercase;
     font-size: 70px;
 }
+
+
+
+.post{
+    border: 3px solid #e3e6ea;
+    text-align: center;
+    padding: 17px;
+    margin-bottom: 10%;
+
+ }
+.post:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: 0.3s;
+ }
+.post:hover > .btnrm {
+     color: white;
+     background-color: #ff817e;
+     transition: 0.3s;
+ }
+ .btnrm{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: darkslategray;
+    color: white;
+    margin-bottom: 30px;
+ }
+.btnrm:hover{
+        color: white;
+        background-color: #ff817e; 
+        transition: 0.3s;
+ }
+ /* .post img {
+     height: 600px;
+ } */
+ @media(orientation: landscape) {
+     .col-sm-4 {
+         width: 100%;
+     }
+ }
+
+
 @media(max-width:764px)
 {
     .img1
