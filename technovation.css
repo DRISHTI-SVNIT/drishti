@@ -135,7 +135,7 @@ body
 }
 .style
 {
-    text-align: left;
+    text-align: center;
 }
 @media(max-width:600px)
 {
@@ -154,7 +154,7 @@ body
 }
 .img1 .tc
 {
-    padding-top: 40px;
+    padding-top: -10px;
 }
 
 .img1 .mini
