@@ -154,7 +154,7 @@ body
 }
 .img1 .tc
 {
-    padding-top: -10px;
+    padding-top: 10px;
 }
 
 .img1 .mini
@@ -198,7 +198,7 @@ body
   {
   text-align: justify;
   font-size: 25px;
-  font-weight: 530;
+  font-weight: 100;
   }
   .sur
   {
