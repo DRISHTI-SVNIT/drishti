@@ -72,20 +72,21 @@ body
  }
 .post:hover{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.20);
     transition: 0.3s;
  }
 .post:hover > .btnrm {
-     color: white;
-     background-color: #ff817e;
-     transition: 0.3s;
+    color: white;
+    background-color: #ff817e;
+    transition: 0.3s;
  }
- .btnrm{
+.btnrm{
     padding-top: 15px;
     padding-bottom: 15px;
     background-color: darkslategray;
     color: white;
     margin-bottom: 30px;
- }
+}
 .btnrm:hover{
         color: white;
         background-color: #ff817e; 
