@@ -95,7 +95,7 @@ body
      height: 600px;
  } */
  @media(orientation: landscape) {
-     .col-sm-4 {
+     .col-sm-6 {
          width: 100%;
      }
  }
