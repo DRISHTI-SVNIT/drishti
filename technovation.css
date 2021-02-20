@@ -64,12 +64,17 @@ body
 .abc:hover {
     background-color: blue  ;
 }
+.bcd {
+    margin-top: 13%;
+    margin-bottom: 9%;
+}
 
 .post{
     border: 3px solid #e3e6ea;
     text-align: center;
     padding: 17px;
     margin-bottom: 10%;
+    /* height: 710px; */
 }
 .post:hover{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -158,6 +163,10 @@ body
         text-transform: uppercase;
         font-size: 55px;
     }
+    .bcd {
+        margin-top: 5%;
+        margin-bottom: 0px;
+    }
 } 
 @media(max-width : 440px) {
     .container-fluid .heading
@@ -171,6 +180,7 @@ body
         transform: scale(1.03);
         transition: 0.3s;
      }
+
 }
 @media(max-width:400px)
 {
