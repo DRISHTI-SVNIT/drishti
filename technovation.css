@@ -64,6 +64,10 @@ body
 .abc:hover {
     background-color: blue  ;
 }
+.bcd {
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
 
 .post{
     border: 3px solid #e3e6ea;
@@ -158,6 +162,10 @@ body
         text-transform: uppercase;
         font-size: 55px;
     }
+    .bcd {
+        margin-top: 5%;
+        margin-bottom: 0px;
+    }
 } 
 @media(max-width : 440px) {
     .container-fluid .heading
@@ -171,6 +179,7 @@ body
         transform: scale(1.03);
         transition: 0.3s;
      }
+
 }
 @media(max-width:400px)
 {
