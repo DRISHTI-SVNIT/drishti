@@ -61,7 +61,9 @@ body
     font-size: 70px;
 }
 
-
+.abc:hover {
+    background-color: blue  ;
+}
 
 .post{
     border: 3px solid #e3e6ea;
@@ -95,10 +97,10 @@ body
      height: 600px;
  } */
  @media(orientation: landscape) {
-     .col-sm-4 {
+     .col-sm-6 {
          width: 100%;
      }
- }
+}
 
 
 @media(max-width:764px)
