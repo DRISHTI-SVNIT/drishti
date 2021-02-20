@@ -61,7 +61,12 @@ body
     font-size: 70px;
 }
 
-
+.abc {
+    background-color: blue  ;
+}
+.abc:hover {
+    background-color: rgb(78, 184, 219);
+}
 
 .post{
     border: 3px solid #e3e6ea;
@@ -98,7 +103,7 @@ body
      .col-sm-6 {
          width: 100%;
      }
- }
+}
 
 
 @media(max-width:764px)
