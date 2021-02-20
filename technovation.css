@@ -61,11 +61,8 @@ body
     font-size: 70px;
 }
 
-.abc {
-    background-color: blue  ;
-}
 .abc:hover {
-    background-color: rgb(78, 184, 219);
+    background-color: blue  ;
 }
 
 .post{
