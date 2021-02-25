@@ -195,6 +195,12 @@ body
 {
     text-align: center;
 }
+.xyz:hover {
+    background-color:green;
+}   
+.klm:hover {
+    background-color: blue;
+}
 @media(max-width:600px)
 {
     .style
