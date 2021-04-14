@@ -147,3 +147,19 @@
     width: 100%;
     margin: 0;
 }
+
+.new-footer{
+    display: flex;
+    background-color: rgb(24, 30, 40);
+}
+
+.drishti-copyright{
+    margin: 40px 0px 35px 55px;
+    width: 50%;
+}
+
+.drishti-copyright span{
+    color: rgb(250, 252, 254);
+    font-size: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+}
