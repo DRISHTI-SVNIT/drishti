@@ -6,14 +6,14 @@
     max-width: 350px;
     box-shadow: 0px 0px 10px white;
 }
-  
+
 .callout-header {
     padding: 15px 15px;
     background: #555;
     font-size: 30px;
     color: white;
 }
-  
+
 .callout-container {
     padding: 15px;
     background-color: #ccc;
@@ -42,17 +42,17 @@
     animation: animate 2s steps(5, start) infinite;
     -webkit-animation: animate 2s steps(5, start) infinite;
 }
-@keyframes animate{ 
-    0%{ 
-      opacity: 1; 
-    } 
-    50%{ 
-      opacity: 0.3; 
-    } 
-    100%{ 
-      opacity: 1; 
-    } 
-  } 
+@keyframes animate{
+    0%{
+      opacity: 1;
+    }
+    50%{
+      opacity: 0.3;
+    }
+    100%{
+      opacity: 1;
+    }
+  }
 /* .callouts--right:before {
     content: "";
     position: absolute;
@@ -102,7 +102,7 @@
     .callout-header {
         font-size: 25px;
       }
-      
+
       .callout-container {
         font-size: 15px;
       }
@@ -140,7 +140,7 @@ html
 }
 body
 {
-    overflow-x: hidden;  
+    overflow-x: hidden;
 }
 .r
 {
@@ -175,7 +175,7 @@ body
     {
         padding-left: 10px;
         padding-right: 10px;
-        
+
     }
 }
 @media(max-width:550px)
@@ -252,7 +252,7 @@ body
 @media(max-width:700px)
 {
     .bg
-    {  
+    {
         background-position:center;
         text-align:center;
         width:auto;
@@ -260,7 +260,7 @@ body
         background-attachment: fixed;"
     }
 }
-@media (max-width: 550px) { 
+@media (max-width: 550px) {
     .hello4{
         height: 250px;
     }
@@ -268,19 +268,19 @@ body
     .hello5{
         height: 250px;
     }
- 
+
     .hello6{
         height: 250px;
     }
 }
-@media (max-width: 460px) { 
+@media (max-width: 460px) {
     .hello4{
         height: 300px;
     }
 
     .hello5{
         height: 300px;
-    } 
+    }
     .hello6{
         height: 300px;
     }
@@ -293,14 +293,14 @@ body
     padding-top: 100px;
     padding-bottom: 100px;
     background-color:beige;
-    
+
 }
 .who .card
 {
     border: 1px solid black;
 }
 .h11
-{   
+{
     background-color: rgba(0, 0, 0, 0.75);
     color: white;
     text-align: center;
@@ -313,7 +313,7 @@ body
     padding-right: 20px;
 }
 .h12
-{   
+{
     background-color:rgba(29, 29, 243, 0.75);
     color: white;
     text-align: center;
@@ -327,7 +327,7 @@ body
     font-family:'Times New Roman', Times, serif;
 }
 .h13
-{   
+{
     background-color:rgba(0, 0, 0, 0.75);
     color: white;
     text-align: center;
@@ -354,7 +354,7 @@ body
      font-size: 24px;
      font-family:Georgia, 'Times New Roman', Times, serif;
      text-decoration: none;
-     text-justify:inter-cluster; 
+     text-justify:inter-cluster;
 }
 @media(max-width:500px)
 {
@@ -374,15 +374,15 @@ body
     }
     .a
     {
-      padding-bottom: 20px;  
+      padding-bottom: 20px;
     }
     .b
     {
-        padding-bottom: 20px; 
+        padding-bottom: 20px;
     }
     .who
     {
-        
+
         padding-right: 20px;
         padding-left:20px;
         padding-top: 30px;
@@ -458,7 +458,7 @@ body
 }
 .drishti
 {
-    font-size:150px; 
+    font-size:150px;
     color: white;font-weight:480;
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center;
