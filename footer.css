@@ -165,6 +165,18 @@
 }
 
 @media(max-width:540px) {
+    .drishti-map{
+        height: 20vh;
+    }
+
+    .new-footer{
+        background-color: rgb(24, 30, 40);
+    }
+
+    .drishti-copyright{
+        text-align: center;
+    }
+
     .drishti-copyright span{
         font-size: 8px;
     }
