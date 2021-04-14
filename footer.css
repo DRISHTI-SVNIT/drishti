@@ -163,3 +163,9 @@
     font-size: 20px;
     font-family: Helvetica, Arial, sans-serif;
 }
+
+@media(max-width:540px) {
+    .drishti-copyright span{
+        font-size: 8px;
+    }
+}
