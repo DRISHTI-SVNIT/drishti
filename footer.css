@@ -167,6 +167,7 @@
 @media(max-width : 540px) {
     .drishti-map{
         height: 20vh;
+        padding: 10px 10px 2px 10px;
     }
 
     .new-footer{
@@ -175,9 +176,11 @@
 
     .drishti-copyright{
         text-align: center;
+        margin: 30px 0 25px 0;
+        width: 100%;
     }
 
     .drishti-copyright span{
-        font-size: 8px;
+        font-size: 12px;
     }
 }
