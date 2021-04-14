@@ -144,8 +144,8 @@
 
 .drishti-map{
     height: 40vh;
-    width: 100%;
-    margin: 0;
+    padding: 40px 55px 0px 55px;
+    background-color: rgb(24, 30, 40);
 }
 
 .new-footer{
@@ -164,7 +164,7 @@
     font-family: Helvetica, Arial, sans-serif;
 }
 
-@media(max-width:540px) {
+@media(max-width : 540px) {
     .drishti-map{
         height: 20vh;
     }
