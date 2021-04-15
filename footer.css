@@ -145,17 +145,17 @@
 .drishti-map{
     height: 45vh;
     padding: 20px 0px 0px 0px;
-    background-color: rgb(14, 16, 16);
+    background-color: rgb(7, 7, 7);
 }
 
 .new-footer{
     display: flex;
-    background-color: rgb(14, 16, 16);
+    background-color: rgb(7, 7, 7);
 }
 
 .drishti-copyright{
-    margin: 40px 0px 35px 55px;
-    width: 50%;
+    margin: 40px 0px 35px 20px;
+    width: 45%;
 }
 
 .drishti-copyright span{
@@ -164,13 +164,26 @@
     font-family: Helvetica, Arial, sans-serif;
 }
 
+.drishti-home{
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.drishti-home a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
 .drishti-social{
-    width: 50%;
-    margin-right: 50px;
+    width: 45%;
+    margin-right: 20px;
     display: flex;
     justify-content: flex-end;
 }
-
+/*
 .backhome-link{
     height: 35px;
     display: flex;
@@ -186,7 +199,7 @@
     letter-spacing: 2px;
     color: rgb(7,20,30);
     background-color: rgb(245, 240, 230);
-}
+} */
 
 @media(max-width : 540px) {
     .drishti-map{
@@ -221,8 +234,12 @@
 
 
 
-
-
+.rounded-social-buttons {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .square-social-buttons {
     text-align: center;
@@ -267,6 +284,7 @@
    font-size: 1.5625rem;
    font-weight: normal;
    line-height: 2em;
+   border-radius: 1.6875rem;
    transition: all 0.5s ease;
    margin-right: 0.25rem;
    margin-bottom: 0.25rem;
