@@ -145,12 +145,12 @@
 .drishti-map{
     height: 45vh;
     padding: 20px 0px 0px 0px;
-    background-color: rgb(24, 30, 40);
+    background-color: rgb(14, 16, 16);
 }
 
 .new-footer{
     display: flex;
-    background-color: rgb(24, 30, 40);
+    background-color: rgb(14, 16, 16);
 }
 
 .drishti-copyright{
@@ -166,8 +166,26 @@
 
 .drishti-social{
     width: 50%;
+    margin-right: 50px;
     display: flex;
     justify-content: flex-end;
+}
+
+.backhome-link{
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.backhome-link a{
+    width: 100%;
+    margin: 15px 0 15px 0;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 2px;
+    color: rgb(7,20,30);
+    background-color: rgb(245, 240, 230);
 }
 
 @media(max-width : 540px) {
@@ -207,7 +225,6 @@
 
 
 .square-social-buttons {
-    margin-right: 50px;
     text-align: center;
     display: flex;
     justify-content: center;
