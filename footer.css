@@ -266,7 +266,7 @@
 }
 
 .social-button.github:hover {
-    color: #202020;
+    color: #34a853;
     background-color: #fefefe;
     transition: all 0.4s ease;
     -webkit-transform: rotate(360deg);
@@ -275,7 +275,7 @@
 }
 
 .social-button.mail:hover {
-    color: #34a853;
+    color: #ea4335;
     background-color: #fefefe;
     transition: all 0.4s ease;
     -webkit-transform: rotate(360deg);
