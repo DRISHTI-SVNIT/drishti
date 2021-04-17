@@ -175,11 +175,11 @@
 .drishti-home a{
     text-decoration: none;
     color: white;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .drishti-home a:hover{
-    font-size: 50px;
+    font-size: 25px;
     transition: 0.2s ease;
 }
 
