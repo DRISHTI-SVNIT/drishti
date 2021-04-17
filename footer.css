@@ -266,7 +266,7 @@
 }
 
 .social-button.github:hover {
-    color: #34a853;
+    color: #202020;
     background-color: #fefefe;
     transition: all 0.4s ease;
     -webkit-transform: rotate(360deg);
