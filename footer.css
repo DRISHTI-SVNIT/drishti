@@ -154,13 +154,14 @@
 }
 
 .drishti-copyright{
-    margin: 40px 0px 35px 20px;
+    margin: 45px 0px 35px 20px;
     width: 45%;
 }
 
 .drishti-copyright span{
     color: rgb(250, 252, 254);
-    font-size: 20px;
+    font-size: 15px;
+    letter-spacing: 1px;
     font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -295,7 +296,7 @@
 
 @media(max-width : 540px) {
     .drishti-map{
-        height: 20vh;
+        height: 30vh;
         padding: 10px 0px 0px 0px;
     }
 
@@ -306,7 +307,7 @@
 
     .drishti-copyright{
         text-align: center;
-        margin: 30px 0 25px 0;
+        margin: 15px 0 25px 0;
         width: 100%;
         grid-row: 3;
     }
@@ -317,18 +318,19 @@
 
     .drishti-home{
         text-align: center;
-        margin: 30px 0 25px 0;
+        margin: 20px 0 10px 0;
         width: 100%;
         grid-row: 1;
     }
 
     .drishti-social{
         text-align: center;
-        margin: 30px 0 25px 0;
-        width: 100%;
-        margin-right: 0;
+        margin: 0px 8% 10px 8%;
+        padding-top: 20px;
+        width: 84%;
         grid-row: 2;
         display: flex;
         justify-content: center;
+        border-top: 1px solid white;
     }
 }
