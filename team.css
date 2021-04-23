@@ -1,3 +1,61 @@
+/* custom fonts */
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('webfonts/PlusJakartaSans/PlusJakartaSans-Regular.woff2') format('woff2'),
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Regular.woff') format('woff')
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('webfonts/PlusJakartaSans/PlusJakartaSans-Light.woff2') format('woff2'),
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Light.woff') format('woff')
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Light.ttf') format('truetype');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('webfonts/PlusJakartaSans/PlusJakartaSans-Medium.woff2') format('woff2'),
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Medium.woff') format('woff')
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Medium.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('webfonts/PlusJakartaSans/PlusJakartaSans-Bold.woff2') format('woff2'),
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Bold.woff') format('woff')
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('webfonts/PlusJakartaSans/PlusJakartaSans-ExtraBold.woff2') format('woff2'),
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-ExtraBold.woff') format('woff')
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-ExtraBold.ttf') format('truetype');
+    font-weight: bolder;
+    font-style: normal;
+}
+
+
+
+
+
+/* start */
+
+
+
+
+
+
 html
 {
     overflow-x: hidden;
@@ -5,15 +63,14 @@ html
 body
 {
     overflow-x: hidden;
-    font-family: 'Times New Roman', Times, serif;
-    background-image: url('images/top.jpg');
-    background-repeat: repeat-y;
-    background-attachment: fixed;
+    font-family: 'PlusJakartaSans', Helvetica, Arial, sans-serif;
+    background-color: #f6f8fa;
 }
+
 .navbar
 {
-    font-size: 22px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-family: 'PlusJakartaSans', Helvetica, Arial, sans-serif;
 }
 .im
 {
@@ -22,6 +79,181 @@ body
     width: 180px;
     height: auto;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.teams-head{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.teams-title{
+    text-align: center;
+    padding: 20px 0 30px 0;
+}
+
+.teams-title h1{
+    font-weight: bold;
+    font-size: 70px;
+    color: rgb(20,34,41);
+}
+
+.teams-title h1 span{
+    font-weight: normal;
+    font-size: 50px;
+    font-style: italic;
+}
+
+.teams-title h3{
+    font-weight: normal;
+    font-size: 18px;
+    letter-spacing: 2px;
+    color: rgba(20, 34, 41, 0.6);
+}
+
+.teams-title h2{
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 30px;
+    color: rgb(20,34,41);
+    border: 2px solid rgb(20,34,41);
+    border-radius: 10px;
+    padding: 8px 0 8px 0;
+}
+
+.teams-title h2:hover{
+    background-color: rgb(20,34,41);
+    color: rgb(245, 251, 253);
+}
+
+.teams-images{
+    width: 100%;
+    margin-top: 70px;
+}
+
+.circle-row{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.person-info{
+    margin: 0 20px 0 20px;
+    width: 18vw;
+}
+
+.person-image img{
+    height: auto;
+    width: 16vw;
+    border-radius: 50%;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+.person-image img:hover{
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+}
+
+.person-text{
+    text-align: center;
+}
+
+.person-text h1{
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: rgb(20,34,41);
+    letter-spacing: 1px;
+}
+
+.person-text h3{
+    font-size: 14px;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: rgba(20,34,41, 0.6);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media(max-width:400px)
 {
     .im
@@ -66,7 +298,7 @@ body
     border: 1px solid #f1f1f1;
     perspective: 1000px; /* Remove this if you don't want the 3D effect */
   }
-  
+
   /* This container is needed to position the front and back side */
   .flip-box-inner {
     position: relative;
@@ -76,12 +308,12 @@ body
     transition: transform 0.8s;
     transform-style: preserve-3d;
   }
-  
+
   /* Do an horizontal flip when you move the mouse over the flip box container */
   .flip-box:hover .flip-box-inner {
     transform: rotateY(180deg);
   }
-  
+
   /* Position the front and back side */
   .flip-box-front, .flip-box-back {
     position: absolute;
@@ -91,13 +323,13 @@ body
     backface-visibility: hidden;
    transform: rotateX(0deg);
   }
-  
+
   /* Style the front side (fallback if image is missing) */
   .flip-box-front {
     background-color: #bbb;
     color: black;
   }
-  
+
   /* Style the back side */
   .flip-box-back {
     background-image:url('images/top.jpg');
