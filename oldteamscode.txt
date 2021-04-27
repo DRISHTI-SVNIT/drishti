@@ -1,0 +1,1805 @@
+second year
+
+
+
+
+
+<div class="row justify-content-center">
+    <div class="col-10 underline"></div>
+</div>
+<div class="con">
+    <div class="heading" style="color: white;">BATCH 2018-22</div><br>
+<div class="row pad">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/pranjal.jpg" alt="pranjal" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">PRANJAL MANDALIA</h3>
+                        <h4>U18EC093</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/aakash.jpg" alt="aakash" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">AKASH AGNIHOTRI</h3>
+                        <h4>U18EE082</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/aman.jpg" alt="aman" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">AMAN GUPTA</h3>
+                        <h4>U18ME069</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/arjun.jpg" alt="arjun" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">ARJUN PARMAR</h3>
+                        <h4>U18ECO19</h4>
+                        <!--<h5>AI-ML</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/ashna.jpg" alt="ashna" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">ASHNA KOHLI</h3>
+                        <h4>U18EE045</h4>
+                        <!--<h5>AERO</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/axit.jpg" alt="Axit" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">AXIT RANGHOLIYA</h3>
+                        <h4>U18ME133</h4>
+                        <!--<h5>AERO</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/rupam.jpg" alt="Rupam" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">RUPAM PRASAD</h3>
+                        <h4>U18EC017</h4>
+                        <!--<h5>AERO</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/ayushi.jpg" alt="Ayushi" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">AYUSHI NAHAR</h3>
+                        <h4>U18ME213</h4>
+                        <!--<h5>REFORESTOR</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/bhavna.jpg" alt="Bhavna" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:23%;">BHAVNA MATWANI</h3>
+                        <h4>U18EE002</h4>
+                        <!--<h5>AI-ML</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/chaithanya.jpg" alt="Chaithanya" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:13%;">BASWA CHAITHANYA NAGA</h3>
+                        <h4>U18EC050</h4>
+                        <!--<h5>AERO</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/dev.jpg" alt="Dev" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">DEV PATEL</h3>
+                        <h4>U18EE004</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/devam.jpg" alt="Devam" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:25%;">DEVAM GANDHI</h3>
+                        <h4>U18ME110</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/dr - Cooldeep Lastlonger.jpg" alt="Kuldeep" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">KULDEEP SANKHAT</h3>
+                        <h4>U18CE017</h4>
+                        <!--<h5>CIVIL</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/inbound8804553462060419071 - never see before.jpg" alt="Babulal" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">BABULAL BISHNOI</h3>
+                        <h4>U18ME220</h4>
+                        <!--<h5>AERO</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/jimit.jpeg" alt="Jimit" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">JIMIT PATEL</h3>
+                        <h4>U18ME070</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/kalal.jpg" alt="Yash" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:28%;">YASH KALAL</h3>
+                        <h4>U18EE022</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/kartik.jpg" alt="Karthik" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:28%;">KARTHIK</h3>
+                        <h4>U18ME089</h4>
+                        <!--<h5>AERO</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/kushal.jpg" alt="Paris" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">KUSHAL KOSHTI</h3>
+                        <h4>U18EC023</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/manasvi.jpg" alt="manasvi" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">MANASVI SINHA</h3>
+                        <h4>U18EE039</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/manav.jpg" alt="manav" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">MANAV KHORASIYA</h3>
+                        <h4>U18CO006</h4>
+                        <!--<h5>AI-ML</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/masru.jpg" alt="Parth" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">PARTH MASHRU</h3>
+                        <h4>U18EC119</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/meet.jpg" alt="Meet" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">MEET MAKWANA</h3>
+                        <h4>U18CE043</h4>
+                        <!--<h5>CIVIL</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/paavan.jpg" alt="Paavan" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">PAAVAN RUPAPARA</h3>
+                        <h4>U18CH008</h4>
+                        <!--<h5>CHEMICAL</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/parihar.jpg" alt="Dev" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">DEV PARIHAR</h3>
+                        <h4>U18CH034</h4>
+                        <!--<h5>CHEMICAL</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/parth.jpg" alt="Parth" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">PARTH GARASIYA</h3>
+                        <h4>U18CO014</h4>
+                        <!--<h5>AI-ML</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/piyush.jpg" alt="Piyush" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">PIYUSH ANAND</h3>
+                        <h4>U18ME032</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/praharsh.jpg" alt="Praharsh" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">PRAHARSH PIPALIYA</h3>
+                        <h4>U18ME066</h4>
+                        <!--<h5>AERO</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/prashant.jpg" alt="Prashanth" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">PRASHANT WAJIRGAVE</h3>
+                        <h4>U18ME064</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/priya.jpg" alt="Priya" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">PRIYA SOMANI</h3>
+                        <h4>U18ME067</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/Riya.jpg" alt="Riya" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">RIYA SINGHAL</h3>
+                        <h4>U18CO016</h4>
+                        <!--<h5>AI-ML</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/ayrisha.jpg" alt="Ayrisha" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">AAYRISHA</h3>
+                        <h4>U16EE035</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/sachin.jpg" alt="Sachin" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">SACHIN VEKARIYA</h3>
+                        <h4>U18EC009</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/sahil.jpg" alt="Sahil" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">SAHIL MAKWANA</h3>
+                        <h4>U18CH019</h4>
+                        <!--<h5>CHEMICAL</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/Shashwat.jpg" alt="Shashwat" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">SHASHWAT PANDYA</h3>
+                        <h4>U18ME150</h4>
+                        <!--<h5>REFORESTOR</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/shridhar.jpg" alt="Shridhar" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">SHRIDHAR DHANANI</h3>
+                        <h4>U18CH023</h4>
+                        <!--<h5>CHEMICAL</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/shrishti.jpg" alt="Shristi" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">SHRISTI JAIN</h3>
+                        <h4>U18ME181</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/smit.jpg" alt="Smit" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">SMIT PATEL</h3>
+                        <h4>U18ME099</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/soni.jpg" alt="Meet" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">MEET SONI</h3>
+                        <h4>U18CO075</h4>
+                        <!--<h5>AI-ML</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/swarnim.jpg" alt="swarnim" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:23%;">SWARNIM SALVE</h3>
+                        <h4>U18ME168</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/tanvi.jpg" alt="tanvi" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">TANVI PATEL</h3>
+                        <h4>U18EC148</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/utkarsh.jpg" alt="UTTKARSH" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:25%;">UTTKARSH SACHAN</h3>
+                        <h4>U18ME030</h4>
+                        <!--<h5>REFORESTOR</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/yamini.jpg" alt="Yamini" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                       <h3 style="padding-top:20%;">YAMINI KABRA</h3>
+                        <h4>U18CO045</h4>
+                        <!--<h5>AI-ML</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/yash.jpg" alt="Yash" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">YASH FALDU</h3>
+                        <h4>U18ME164</h4>
+                        <!--<h5>REFORESTOR</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/yatin.jpg" alt="Yatin" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:23%;">YATIN ADITYA TEKUMALLA</h3>
+                        <h4>U18EC013</h4>
+                        <!--<h5>AI-ML</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/second/siddharth.jpg" alt="Yatin" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:23%;">SIDDHARTH DONTHULA REDDY</h3>
+                        <!--<h4>U18EC013</h4>
+                        <h5>AI-ML</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <h3 style="padding-top:30%;">SHUBHAM KESRI</h3>
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">SHUBHAM KESRI</h3>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <h3 style="padding-top:30%;">CHETAN KARWA</h3>
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">CHETAN KARWA</h3>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <h3 style="padding-top:30%;">APOORVA GUPTA</h3>
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">APOORVA GUPTA</h3>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <h3 style="padding-top:30%;">SHYAMAL PATEL</h3>
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">SHYAMAL PATEL</h3>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <h3 style="padding-top:30%;">SAGAR JARIWALA</h3>
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">SAGAR JARIWALA</h3>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <h3 style="padding-top:30%;">MUKUL SHARMA</h3>
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">MUKUL SHARMA</h3>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <h3 style="padding-top:28%;">SHOURYA SRIVASTAVA</h3>
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:28%;">SHOURYA SRIVASTAVA</h3>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Third Year
+
+
+
+
+
+<div class="row justify-content-center">
+    <div class="col-10 underline"></div>
+</div>
+<div class="con">
+    <div class="heading" style="color: white;">BATCH 2017-21</div><br>
+<div class="row pad ">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom ">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/aakash.jpg" alt="aakash" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">AAKASH DESAI</h3>
+                        <h4>U17ME191</h4>
+                        <!--<h5>AERO</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/pankaj.jpg" alt="Pankaj" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:13%;">PANKAJ KUMAR VIJAYVERGIYA</h3>
+                        <h4>U17EC122</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/devanshu.jpg" alt="devanshu" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">DEVANSHU KANABAR</h3>
+                        <h4>U17ME063</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/Shubhi.jpg" alt="SHUBHI" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:22%;">SHUBHI AGARWAL</h3>
+                        <h4>U17CO109</h4>
+                        <!--<h5>AI-ML</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/harshil.jpg" alt="HARSHIL" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">HARSHIL SINGHI</h3>
+                        <h4>U17ME049</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/deeksha.jpg" alt="DEEKSHA" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:23%;">DEEKSHA GOYAL</h3>
+                        <h4>U17EC146</h4>
+                        <!--<h5>AI-ML</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/dinesh.jpeg" alt="DINESH" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:23%;">Y. DINESH CHANDRA</h3>
+                        <h4>U17EC121</h4>
+                        <!--<h5>AERO</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/divya.jpg" alt="DIVYA" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:23%;">DIVYA DASHORA</h3>
+                        <h4>U17ME116</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/fenil.jpg" alt="FENIL" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:28%;">FENIL DESAI</h3>
+                        <h4>U17EC056</h4>
+                    <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/dharmik.jpg" alt="DHARMIK" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">DHARMIK PARMAR</h3>
+                        <h4>U17ME110</h4>
+                        <!--<h5>REFORESTOR</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/hirani.jpg" alt="AAKASH" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">AKASH HIRANI</h3>
+                        <h4>U17ME125</h4>
+                        <!--<h5>AERO</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/kalash.jpg" alt="KALASH" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:28%;">KALASH TIWARI</h3>
+                       <!--<h4>U16EC056</h4>
+                        <h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/khushali.jpeg" alt="KHUSHALI" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">KHUSHALI SOLANKI</h3>
+                        <h4>U17CE093</h4>
+                        <!--<h5>CIVIL</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/mihir.jpg" alt="MIHIR" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">MIHIR CHANPURA</h3>
+                        <h4>U17ME123</h4>
+                        <!--<h5>REFORESTOR</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/mohit.jpg" alt="MOHIT" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">MOHIT GIDWANI</h3>
+                        <h4>U17EE084</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/neel.jpg" alt="NEEL" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">NEEL PACHCHIGAR</h3>
+                        <h4>U17ME094</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/dhruv.jpg" alt="DHRUV" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">DHRUV HANSALIYA</h3>
+                        <h4>U17ME044</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/panji.jpg" alt="NEEL" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">NEEL PANJI</h3>
+                        <h4>U17ME095</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/atul.jpg" alt="ATUL" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:25%;">ATUL KUMAR MAURYA</h3>
+                        <h4>U17CE097</h4>
+                        <!--<h5>CIVIL</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/ram.jpg" alt="RAM" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">RAM RATHI</h3>
+                        <h4>U17CE031</h4>
+                        <!--<h5>CIVIL</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/rashmi.jpg" alt="RASHMI" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:23%;">RASHMI KARNANY</h3>
+                        <h4>U17EC150</h4>
+                        <!--<h5>ROVER</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/raval.jpg" alt="DHRMIK" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">DHARMIK RAVAL</h3>
+                      <!-- <h4>U16EC056</h4>
+                        <h5>REFORESTOR</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/rutvik (2).jpg" alt="RUTVIK" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">RUTVIK ZANZRUKIYA</h3>
+                        <h4>U17CO063</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/rutvik.jpg" alt="RUTVIK" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">RUTVIK MASTER</h3>
+                        <h4>U17ME153</h4>
+                        <!--<h5>REFORESTOR</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/s.jpg" alt="SHRANGARIKA" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">SHRANGARIKA GUPTA</h3>
+                        <h4>U17EC037</h4>
+                        <!--<h5>REFORESTOR</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/shivansh.jpg" alt="SHIVANSH" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">SHIVANSH MISHRA</h3>
+                        <h4>U17ME169</h4>
+                        <!--<h5>REFORESTOR</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/dhairya.jpg" alt="DHAIRYA" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">DHAIRYA VORA</h3>
+                        <h4>U17ME037</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/vatsal.jpg" alt="VATSAL" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:30%;">VATSAL MODI</h3>
+                        <h4>U17ME117</h4>
+                        <!--<h5>AERO</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/vivek.jpg" alt="VIVEK" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">VIVEK ADAJANIA</h3>
+                        <h4>U17EC055</h4>
+                        <!--<h5>ROBOCON</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/vybhav.jpg" alt="VYBHAV" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">VYBHAV NEELISETTY</h3>
+                        <h4>U17EC066</h4>
+                        <!--<h5>AERO</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row m">
+    <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+        <div class="flip-box">
+            <div class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img src="team/third/yash.jpg" alt="YASH" style="width:200px;height:200px">
+                    </div>
+                    <div class="flip-box-back">
+                        <h3 style="padding-top:20%;">YASH MANDWARIYA</h3>
+                        <h4>U17CE035</h4>
+                        <!--<h5>CIVIL</h5>-->
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Final year
+
+
+
+
+
+
+    <div class="row justify-content-center">
+        <div class="col-10 underline"></div>
+    </div>
+<div class="con">
+    <div class="heading" style="color: white;">BATCH 2016-20</div><br>
+     <div class="row pad">
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/meet.jpg" alt="meet" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:28%;">MEET GANDHI</h3>
+                            <h4>U16EC056</h4>
+                            <!--<h5>ROVER</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2  col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/Abdullah.jpg" alt="Abdullah" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:28%;">ABDULLAH RANGWALA</h3>
+                           <!-- <h3>U16EC056</h3>
+                            <h5>ROBOCON</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/deval.jpg" alt="deval" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:20%;">DEVAL PANDYA</h3>
+                            <h4>U16CO010</h5>
+                            <!--<h5>AI-ML</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2  col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/millie.jpg" alt="millie" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:20%;">MILLIE BHANANI</h3>
+                            <h3>U16EC056</h3>
+                            <!--<h5>ROVER</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2  col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/atharva.jpg" alt="atharva" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:20%;">ATHARVA KALESKAR</h3>
+                            <h4>U16CO063</h4>
+                            <!--<h5>ROVER</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2  col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/bhanu.jpg" alt="bhanu" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:28%;">BHANU TEJA</h3>
+                            <h4>U16EC142</h4>
+                            <!--<h5>AERO</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+     </div>
+     <div class="row m">
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/ajinkya.jpg" alt="ajinkya" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:28%;">AJINKYA ZALTE</h3>
+                            <!--<h3>U16EC056</h3>
+                            <h5>AERO</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/dhruv.jpg" alt="dhruv" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:28%;">DHRUV PATEL</h3>
+                            <h4>U16EC053</h4>
+                            <!--<h5>ROBOCON</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/himanshu.jpg" alt="himanshu" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:28%;">HIMANSHU KUMAR</h3>
+                            <!--<h3>U16EC056</h3>
+                            <h5>ROBOCON</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/mahesh.jpg" alt="mahesh" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:13%;">
+                                Mahesh Chandrakant Birajdar</h3>
+                            <h4>U16ME084</h4>
+                            <!--<h5>ROVER</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/mansi.jpg" alt="mansi" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:20%;">
+                               MANSI SAMPAT</h3>
+                            <h4>U16EC015</h4>
+                           <!--- <h5>AI-ML</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/manthan.jpg" alt="manthan" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:20%;">
+                                MANTHAN SHAH</h3>
+                            <h4>U16ME016</h4>
+                            <!--<h5>ROBOCON</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+     </div>
+     <div class="row m">
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/aanchal.jpg" alt="aanchal" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:28%;">
+                                AANCHAL HANDA</h3>
+                           <!-- <h3>U16ME084</h3>
+                            <h5>ACS</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/ankit.jpg" alt="ankit" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:40%;">
+                                ANKIT ANAND</h3>
+                            <!--<h3>U16ME084</h3>
+                            <h5>EXOSKELETON</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/muskan.jpg" alt="muskan" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back bottom">
+                            <h3 style="padding-top:22%;">
+                                MUSKAN CHOTRANI</h3>
+                            <h4>U16EC099</h4>
+                            <!--<h5>EXOSKELETON</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/parth.JPG" alt="parth" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:28%;">
+                               PARTH PANCHAL</h3>
+                           <!-- <h3>U16ME084</h3>
+                            <h5>ROVER</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/puneet.jpg" alt="puneet" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:22%;">
+                               PUNEET KUKREJA</h3>
+                            <h4>U16ME109</h4>
+                           <!-- <h5>EXOSKELETON</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/rutvik.jpg" alt="rutvik" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:30%;">
+                               RUTVIK PATEL</h3>
+                            <h4>U16ME054</h4>
+                            <!--<h5>EXOSKELETON</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+     </div>
+     <div class="row m">
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/sandeep.jpg" alt="sandeep" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:30%;">
+                              SANDEEP ASHIWAL</h3>
+                            <!--<h3>U16ME084</h3>
+                            <h5>ROBOCON</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/sanket.jpg" alt="sanket" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:25%;">
+                                SANKET AMBEDKAR</h3>
+                            <h4>U16ME011</h4>
+                            <!--<h5>AERO</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/varun.jpg" alt="varun" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:22%;">
+                               VARUN VIDIYALA</h3>
+                            <h4>U16ME089</h4>
+                            <!--<h5>AERO</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/vatsal.jpg" alt="vatsal" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:30%;">
+                               VATSAL RATHOD</h3>
+                           <!--<h3>U16ME084</h3>
+                            <h5>ROBOCON</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/yash (2).jpg" alt="yash" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:22%;">
+                                YASH NARIGARA</h3>
+                            <h4>U16ME023</h4>
+                            <!--<h5>EXOSKELETON</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/yash.jpg" alt="yash" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:22%;">
+                                YASH SHARMA</h3>
+                            <h4>U16ME152</h4>
+                            <!--<h5>EXOSKELETON</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row m">
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/aditya.jpg" alt="aditya" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:35%;">
+                                ADITYA RAJ</h3>
+                           <!-- <h3>U16ME084</h3>
+                            <h5>ACS</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-6 col-md-4 bottom">
+            <div class="flip-box">
+                <div class="flip-box-inner">
+                        <div class="flip-box-front">
+                            <img src="team/final/chirayu.jpg" alt="chirayu" style="width:200px;height:200px">
+                        </div>
+                        <div class="flip-box-back">
+                            <h3 style="padding-top:28%;">
+                                CHIRAYU KAMBLE</h3>
+                           <!-- <h3>U16ME084</h3>
+                            <h5>ACS</h5>-->
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
