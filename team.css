@@ -158,6 +158,7 @@ body
 .teams-images{
     display: grid;
     grid-template-columns: repeat(5,1fr);
+    column-gap: 25px;
 }
 
 /* .circle-row{
@@ -424,6 +425,7 @@ body
 
     .faculty-box{
         width: 100%;
+        margin-bottom: 50px;
         display: grid;
         justify-content: center;
     }
