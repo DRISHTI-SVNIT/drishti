@@ -26,12 +26,12 @@
     bottom: 70px;
     right: 50px;
     margin-left: 20px;
-    max-width: 270px;
-    height: 90px;
-    padding: 15px;
+    max-width: 350px;
+    height: 120px;
+    padding: 25px 45px;
     background-color: white;
     border: 3px solid #c1c1c1;
-    border-radius: 40px;
+    border-radius: 25px;
     box-shadow: 0 0 20px black;
     justify-content: center;
     display: flex;
@@ -111,6 +111,7 @@
     .callouts {
         left: 18%;
         right: 8%;
+        padding: 25px 20px;
     }
 }
 
@@ -118,6 +119,7 @@
     .callouts {
         left: 9%;
         right: 10%;
+        padding: 25px 18px;
     }
 }
 
@@ -247,7 +249,7 @@ body
     text-align:center;
     width:auto;
     background-size:cover;
-    background-attachment: fixed;"
+    background-attachment: fixed;
 }
 @media(max-width:700px)
 {
@@ -257,7 +259,7 @@ body
         text-align:center;
         width:auto;
         background-size:cover;
-        background-attachment: fixed;"
+        background-attachment: fixed;
     }
 }
 @media (max-width: 550px) {
