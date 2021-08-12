@@ -28,7 +28,7 @@
     margin-left: 20px;
     max-width: 40vw;
     height: 145px;
-    padding: 25px 45px;
+    padding: 25px 35px;
     background-color: white;
     border: 3px solid #c1c1c1;
     border-radius: 25px;
@@ -112,6 +112,8 @@
         left: 18%;
         right: 8%;
         padding: 25px 20px;
+        max-width: 90vw;
+        font-size: 0.65em;
     }
 }
 
@@ -120,6 +122,8 @@
         left: 9%;
         right: 10%;
         padding: 25px 18px;
+        max-width: 90vw;
+        font-size: 0.65em;
     }
 }
 
