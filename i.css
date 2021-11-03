@@ -1,11 +1,14 @@
-.large-header {
-    position: relative;
-    width: 100%;
+.content {
     background: black;
-    overflow: hidden;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
+}
+
+.large-header {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
     /*z-index: 1;*/
  }
 /*  
@@ -19,7 +22,7 @@
     padding: 0;
     color: #F9F1E9;
     /*text-align: center;*/
-    top: 45%;
+    top: 37%;
     left: 50%;
     -webkit-transform: translate3d(-50%, -50%, 0);
     transform: translate3d(-50%, -50%, 0);
@@ -42,7 +45,7 @@
     color: #F9F1E9;
     font-size: 45px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    top: 57%;
+    top: 49%;
     text-align: center;
     
  }
@@ -61,7 +64,7 @@
      }
      .demo .main-title-2
      {
-         top:46%;
+         top:47%;
          font-size: 50px;
      }
  }
@@ -107,19 +110,19 @@
  {
     .demo .main-title {
         text-transform: uppercase;
-        font-size:70px;
+        font-size:60px;
         font-weight: normal;
         letter-spacing: 0.1em;
         font-family: Georgia, 'Times New Roman', Times, serif;
      }
      .main-title
      {
-         top:25%;
+         top:36%;
      }
      .demo .main-title-2
      {
-         top:32%;
-         font-size: 30px;
+         top:42%;
+         font-size: 22px;
          text-align: center;
      }
  }

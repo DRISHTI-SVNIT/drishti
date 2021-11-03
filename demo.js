@@ -9,10 +9,10 @@
 
     function initHeader() {
         width = window.innerWidth;
-        height = window.innerHeight;
+        height = window.innerHeight - document.querySelector(".navbar").offsetHeight;
         target = {x: width/2, y: height/2};
 
-        largeHeader = document.getElementById('large-header');
+        largeHeader = document.querySelector("#large-header");
         largeHeader.style.height = height+'px';
 
         canvas = document.getElementById('demo-canvas');

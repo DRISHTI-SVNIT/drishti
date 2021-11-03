@@ -204,6 +204,40 @@ nav {
 } */
 
 @media(max-width : 550px) {
+    nav {
+        margin: 0;
+    }
+    .svnit_photo{
+        width:130px;
+        height: auto;
+        margin-left: 10px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+     }
+     
+     .v1 {
+         height: 70px;
+         border-left: 1px solid white;
+         position: relative;
+         top : 0;
+         margin-left: 0%;
+     }
+     .v2 {
+         height: 70px;
+         border-left: 1px solid black;
+         position: relative;
+         top : 0;
+         margin-left: 0%;
+     }
+     
+     .nit_photo{
+         width:60px;
+         height: auto;
+         margin-left: 30px;
+         margin-right: 10px;
+         margin-top: 0px;
+         margin-bottom: 0px;
+     }
     div.callout {
         margin-top: 0%;
     }
@@ -368,7 +402,7 @@ body
 }
 @media(max-width:450px)
 {
-    .carosel
+    .carousel
         {
             padding-top: 1px;
         }
