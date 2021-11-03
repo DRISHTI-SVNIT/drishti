@@ -1,3 +1,125 @@
+/* custom fonts */
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('webfonts/PlusJakartaSans/PlusJakartaSans-Regular.woff2') format('woff2'),
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Regular.woff') format('woff')
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('webfonts/PlusJakartaSans/PlusJakartaSans-Light.woff2') format('woff2'),
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Light.woff') format('woff')
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Light.ttf') format('truetype');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('webfonts/PlusJakartaSans/PlusJakartaSans-Medium.woff2') format('woff2'),
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Medium.woff') format('woff')
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Medium.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('webfonts/PlusJakartaSans/PlusJakartaSans-Bold.woff2') format('woff2'),
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Bold.woff') format('woff')
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('webfonts/PlusJakartaSans/PlusJakartaSans-ExtraBold.woff2') format('woff2'),
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-ExtraBold.woff') format('woff')
+         url('webfonts/PlusJakartaSans/PlusJakartaSans-ExtraBold.ttf') format('truetype');
+    font-weight: bolder;
+    font-style: normal;
+}
+
+
+
+
+
+/* start */
+
+
+
+
+
+html
+{
+    overflow-x: hidden;
+}
+nav {
+    margin: 5px 30px;
+}
+.navbar-nav{
+    /* font-family: Arial; */
+    font-size: 20px;
+    font-family: 'PlusJakartaSans', Helvetica, Arial, sans-serif;
+}
+
+.svnit_photo{
+   width:150px;
+   height: auto;
+   margin-left: 10px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
+.v1 {
+    height: 70px;
+    border-left: 1px solid white;
+    position: relative;
+    top : 0;
+    margin-left: 0%;
+}
+.v2 {
+    height: 70px;
+    border-left: 1px solid black;
+    position: relative;
+    top : 0;
+    margin-left: 0%;
+}
+
+.nit_photo{
+    width:80px;
+    height: auto;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+
+.co {
+    background-color: beige;
+}
+
+.carousel-item img {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    width: 90%;
+}
+
+
+
+
+
+
 .callout {
     position: absolute;
     bottom: 35px;
@@ -310,9 +432,9 @@ body
     background-color: rgba(0, 0, 0, 0.75);
     color: white;
     text-align: center;
-    font-size: 50px;
+    font-size: 42px;
     /*color:rgb(108, 110, 211);*/
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'PlusJakartaSans', Helvetica, Arial, sans-serif;
     padding-top: 40px;
     padding-bottom: 40px;
     padding-left: 20px;
@@ -323,24 +445,24 @@ body
     background-color:rgba(29, 29, 243, 0.75);
     color: white;
     text-align: center;
-    font-size: 50px;
+    font-size: 42px;
     /*font-size: 50px;
     color:rgb(108, 110, 211);*/
     padding-top: 40px;
     padding-bottom: 40px;
     padding-left: 20px;
     padding-right: 20px;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'PlusJakartaSans', Helvetica, Arial, sans-serif;
 }
 .h13
 {
     background-color:rgba(0, 0, 0, 0.75);
     color: white;
     text-align: center;
-    font-size: 50px;
+    font-size: 42px;
     /*font-size: 50px;
     color:rgb(108, 110, 211);*/
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'PlusJakartaSans', Helvetica, Arial, sans-serif;
     padding-top: 40px;
     padding-bottom: 40px;
     padding-left: 1px;
@@ -357,8 +479,8 @@ body
 .h1
 {
     text-align: justify;
-     font-size: 24px;
-     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-size: 23px;
+     font-family: 'PlusJakartaSans', Helvetica, Arial, sans-serif;
      text-decoration: none;
      text-justify:inter-cluster;
 }

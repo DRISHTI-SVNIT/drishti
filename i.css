@@ -19,7 +19,7 @@
     padding: 0;
     color: #F9F1E9;
     /*text-align: center;*/
-    top: 32%;
+    top: 45%;
     left: 50%;
     -webkit-transform: translate3d(-50%, -50%, 0);
     transform: translate3d(-50%, -50%, 0);
@@ -40,9 +40,9 @@
     margin: 0;
     padding: 0;
     color: #F9F1E9;
-    font-size: 55px;
+    font-size: 45px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    top: 44%;
+    top: 57%;
     text-align: center;
     
  }

@@ -27,7 +27,7 @@ body
 .navbar
 {
     font-size: 22px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'PlusJakartaSans', Helvetica, Arial, sans-serif;
 }
 .workshop_2021
 {
@@ -102,7 +102,7 @@ body
 }
 .im
 {
-    width: 180px;
+    width: 150px;
     height: auto;
 }
 @media(max-width:400px)
