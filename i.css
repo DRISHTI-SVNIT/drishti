@@ -3,12 +3,15 @@
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
+    height: 100vh;
+    overflow-y: hidden;
 }
 
 .large-header {
     position: relative;
     width: 100%;
     overflow: hidden;
+    height: 100%;
     /*z-index: 1;*/
  }
 /*  
