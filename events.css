@@ -58,6 +58,10 @@ body
     padding-top: 0px;
     align-self: center;
 }
+.description{
+    padding-top: 0px;
+    align-self: center;
+}
 @media(max-width:764px)
 {
     .img1
