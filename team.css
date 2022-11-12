@@ -64,9 +64,12 @@ body
 {
     overflow-x: hidden;
     font-family: 'PlusJakartaSans', Helvetica, Arial, sans-serif;
-    background-color: #f6f8fa;
-    background-image: url('images/top.jpg');
-    background-repeat: repeat-y;
+    /* background-color: #f6f8fa; */
+    /* background-image: url('images/top.jpg'); */
+    background-image: url('images/s.jpg');
+    background-blend-mode: lighten;
+    background-color: rgba(255, 255, 255, 0.8);
+    /* background-repeat: repeat-y; */
     background-attachment: fixed;
 }
 
@@ -74,6 +77,11 @@ body
 {
     font-size: 20px;
     font-family: 'PlusJakartaSans', Helvetica, Arial, sans-serif;
+}
+.underline
+{
+    height: 5px;
+    background-color: black;
 }
 .im
 {
@@ -86,7 +94,12 @@ body
 
 
 
-
+.dropdown-menu
+  {
+    background-image: url('images/s.jpg');
+    background-blend-mode: lighten;
+    background-color: rgba(255, 255, 255, 0.8);
+  }
 
 
 
@@ -124,7 +137,7 @@ body
     font-weight: normal;
     font-size: 18px;
     letter-spacing: 2px;
-    color: rgba(20, 34, 41, 0.6);
+    color: black;
 }
 
 .teams-title h2{
@@ -132,9 +145,9 @@ body
     letter-spacing: 2px;
     font-size: 40px;
     /* color: rgb(20,34,41); */
-    color: white;
+    /* color: white; */
     /* border: 2px solid rgb(20,34,41); */
-    border: 2px solid white;
+    border: 2px solid black;
     border-radius: 10px;
     padding: 14px 50px 14px 50px;
     transition: 0.1s ease;
@@ -176,10 +189,11 @@ body
 .person-image img{
     height: auto;
     width: 15vw;
-    border-radius: 50%;
+    border-radius: 5%;
     /* filter: grayscale(100%);
     -webkit-filter: grayscale(100%); */
     transition: 0.1s ease;
+    border: 0.5px solid black;
 }
 /*
 .person-image img:hover{
@@ -198,7 +212,7 @@ body
     font-weight: bolder;
     text-transform: uppercase;
     /* color: rgb(20,34,41); */
-    color: white;
+    color: black;
     letter-spacing: 1px;
 }
 
@@ -207,7 +221,7 @@ body
     font-weight: normal;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: white;
+    color: black;
     /* color: rgba(20,34,41, 0.6); */
 }
 
@@ -216,7 +230,7 @@ body
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: white;
+    color: black;
     /* color: rgba(20,34,41, 0.6); */
 }
 
@@ -236,7 +250,7 @@ body
 .faculty-card{
     width: 24vw;
     margin: 20px 30px 0px 30px;
-    border: 3px solid white;
+    border: 1px solid black;
     border-radius: 15px;
     /* background-color: rgba(253, 249, 249, 0.9); */
     background-color: transparent;
@@ -244,11 +258,13 @@ body
     justify-content: center;
     text-align: center;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.4) inset;
+    padding-bottom:10px ;
+    margin-bottom: 100px;
 }
 
 .faculty-card:hover{
     background-color: transparent;
-    box-shadow: 0 0 10px white;
+    box-shadow: 0 0 10px black;
 }
 
 .faculty-image{
@@ -271,12 +287,12 @@ body
 .faculty-info h1{
     font-size: 18px;
     font-weight: bolder;
-    color: white;
+    color: black;
 }
 
 .faculty-info h2{
     font-size: 22px;
-    color: white;
+    color: black;
     margin-bottom: 40px;
 }
 
@@ -500,10 +516,10 @@ body
       padding-top: 0px;
     }
   }
-  .dropdown-menu
+  /* .dropdown-menu
   {
     background-image: url('images/top.jpg');
-  }
+  } */
   .it
   {
     color: white;
