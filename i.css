@@ -5,6 +5,7 @@
     background-attachment: fixed;
     height: 100vh;
     overflow-y: hidden;
+    box-shadow: 0px 0vw 70vw 1vw rgb(0 0 0) inset, 0px 0vw 13vw 2vw rgb(0 0 0) inset;
 }
 
 .large-header {
