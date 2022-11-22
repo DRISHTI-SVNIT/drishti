@@ -815,7 +815,8 @@ body
 }
 .dropdown-menu
   {
-    background-image: url('images/top.jpg');
+    background-color: transparent;
+    border: 2px solid rgb(175, 175, 201);
   }
   .it
   {

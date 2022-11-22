@@ -143,7 +143,7 @@ body
 .teams-title h2{
     font-weight: bold;
     letter-spacing: 2px;
-    font-size: 40px;
+    font-size: 4vw;
     /* color: rgb(20,34,41); */
     /* color: white; */
     /* border: 2px solid rgb(20,34,41); */
@@ -183,7 +183,7 @@ body
 
 
 .person-info{
-    margin: 0 15px 35px 15px;
+    margin: 0 1vw 3vw 1vw;
 }
 
 .person-image img{
@@ -371,8 +371,8 @@ body
         font-weight: bold;
         letter-spacing: 1px;
         font-size: 20px;
-        color: white;
-        border: 2px solid white;
+        /* color: white; */
+        /* border: 2px solid white; */
         border-radius: 10px;
         padding: 10px 20px 10px 20px;
         transition: 0.1s ease;
@@ -405,7 +405,7 @@ body
     .person-image img{
         height: auto;
         width: 42vw;
-        border-radius: 50%;
+        /* border-radius: 50%; */
     }
 
     .person-text{
@@ -418,7 +418,7 @@ body
         font-size: 12px;
         font-weight: bolder;
         text-transform: uppercase;
-        color: white;
+        /* color: white; */
         letter-spacing: 1px;
     }
 
@@ -428,7 +428,7 @@ body
         font-weight: normal;
         text-transform: uppercase;
         letter-spacing: 1px;
-        color: white;
+        /* color: white; */
     }
 
     .person-text h2{
@@ -437,7 +437,7 @@ body
         font-weight: bold;
         text-transform: uppercase;
         letter-spacing: 1px;
-        color: white;
+        /* color: white; */
     }
 
     .faculty-box{
