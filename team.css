@@ -187,7 +187,7 @@ body
 }
 
 .person-image img{
-    height: auto;
+    height: 15vw;
     width: 15vw;
     border-radius: 5%;
     /* filter: grayscale(100%);
@@ -403,7 +403,7 @@ body
     }
 
     .person-image img{
-        height: auto;
+        height: 42vw;
         width: 42vw;
         /* border-radius: 50%; */
     }
