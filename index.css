@@ -250,6 +250,18 @@ a.live-video {
     border-left: 24px solid #fff;
     z-index: 3;
 } */
+.hello5{
+    height: 576px;
+    width: auto;
+}
+.hello4{
+    height: 576px;
+    width: auto;
+}
+.hello6{
+    height: 576px;
+    width: auto;
+}
 
 @media(max-width : 550px) {
     nav {
