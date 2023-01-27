@@ -59,6 +59,7 @@
 html
 {
     overflow-x: hidden;
+    overflow-y:hidden;
 }
 body
 {
@@ -71,6 +72,7 @@ body
     background-color: rgba(255, 255, 255, 0.8);
     /* background-repeat: repeat-y; */
     background-attachment: fixed;
+    height: 1000px;
 }
 
 .navbar
@@ -115,7 +117,17 @@ body
     align-items: center;
     margin-top: 50px;
 }
-
+.teams-name{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;    
+}
+.teams-name h2{
+    color: white;
+    font-size: 50px;
+}
 .teams-title{
     text-align: center;
     padding: 20px 0 30px 0;
@@ -162,16 +174,19 @@ body
 }
 
 .teamsimg{
-    width: 100%;
-    margin-top: 70px;
-    display: flex;
+    margin: 16vw;
+    margin-top: 20px;
+    margin-bottom: 0;
+    display:block;
     justify-content: center;
 }
 
 .teams-images{
-    display: grid;
-    grid-template-columns: repeat(5,1fr);
-    column-gap: 25px;
+    display: flex;
+    flex-wrap:wrap;
+    column-gap: 35px;
+    row-gap: 35px;
+    justify-content: center;
 }
 
 /* .circle-row{
@@ -212,7 +227,7 @@ body
     font-weight: bolder;
     text-transform: uppercase;
     /* color: rgb(20,34,41); */
-    color: black;
+    color: white;
     letter-spacing: 1px;
 }
 
@@ -221,7 +236,7 @@ body
     font-weight: normal;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: black;
+    color: white;
     /* color: rgba(20,34,41, 0.6); */
 }
 
@@ -230,7 +245,7 @@ body
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: black;
+    color: white;
     /* color: rgba(20,34,41, 0.6); */
 }
 
@@ -361,7 +376,9 @@ body
         align-items: center;
         margin-top: 50px;
     }
-
+    .teams-name h2{
+        font-size: 20px;
+    }
     .teams-title{
         text-align: center;
         padding: 0px 0 0px 0;
@@ -384,7 +401,7 @@ body
         transition: 0.2s ease;
     }
 
-    .teamsimg{
+    /* .teamsimg{
         width: 100%;
         margin-top: 25px;
         display: flex;
@@ -394,7 +411,7 @@ body
     .teams-images{
         display: grid;
         grid-template-columns: repeat(2,1fr);
-    }
+    } */
 
     .person-info{
         margin: 30px 0 0 0;
