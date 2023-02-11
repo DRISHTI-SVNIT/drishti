@@ -179,16 +179,16 @@ a.live-video {
 
 .callout-header {
     padding: 15px 15px;
-    background: #555;
+    background: black;
     font-size: 30px;
     color: white;
 }
 
 .callout-container {
     padding: 15px;
-    background-color: #ccc;
+    background-color:transparent;
     font-size: 20px;
-    color: black
+    color: navy;
 }
 .callouts{
     /*display: inline-block;*/
