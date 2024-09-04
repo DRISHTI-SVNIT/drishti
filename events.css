@@ -1,215 +1,191 @@
-html
-{
+html {
     overflow-x: hidden;
-    
 }
-body
-{
+
+body {
     overflow-x: hidden;
-    font-family:Georgia, 'Times New Roman', Times, serif;   
-   
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.back
-{
+
+.back {
     background-image: url('images/s.jpg');
-   /*background-size: cover;*/
-   background-blend-mode: lighten;
+    /*background-size: cover;*/
+    background-blend-mode: lighten;
     background-color: rgba(255, 255, 255, 0.8);
-   
-   
-    
 }
-.underline
-{
+
+.underline {
     height: 5px;
     background-color: black;
 }
-.navbar
-{
+
+.navbar {
     font-size: 22px;
     font-family: 'PlusJakartaSans', Helvetica, Arial, sans-serif;
 }
-.workshop_2021
-{
+
+.workshop_2021 {
     padding-bottom: 100px;
 }
-.technovation
-{
+
+.technovation {
     padding-bottom: 100px;
 }
-.Makerspace
-{
+
+.Makerspace {
     padding-bottom: 100px;
 }
-.grp
-{
+
+.grp {
     padding-bottom: 100px;
 }
-.orientation
-{
-    padding-bottom:100px;
-}
-.workshop
-{
+
+.orientation {
     padding-bottom: 100px;
 }
-.img1
-{
+
+.workshop {
+    padding-bottom: 100px;
+}
+
+.img1 {
     padding-top: 0px;
     align-self: center;
 }
-.description{
+
+.description {
     padding-top: 0px;
     align-self: center;
 }
-@media(max-width:764px)
-{
-    .img1
-    {
+
+@media(max-width:764px) {
+    .img1 {
         padding-top: 50px;
     }
 }
-@media(max-width:978px)
-{
-    .hello
-    {
+
+@media(max-width:978px) {
+    .hello {
         padding-top: 50px;
     }
-    .hello1
-    {
+    .hello1 {
         padding-top: 100px;
     }
 }
-.dob .x
-{
-    color:white;
-     padding-top:30px;
+
+.dob .x {
+    color: white;
+    padding-top: 30px;
 }
-@media(max-width:800px)
-{
-    .dob .x{
-        padding-top:4px;
+
+@media(max-width:800px) {
+    .dob .x {
+        padding-top: 4px;
     }
 }
-.dob
-{
+
+.dob {
     padding-left: 50px;
-     padding-top: 50px;
+    padding-top: 50px;
     padding-right: 50px;
 }
-@media(max-width:450px)
-{
-    .dob
-    {
+
+@media(max-width:450px) {
+    .dob {
         padding-right: 0px;
-        padding-left:0px;
+        padding-left: 0px;
     }
 }
-.im
-{
+
+.im {
     width: 150px;
     height: auto;
 }
-@media(max-width:400px)
-{
-    .im
-    {
+
+@media(max-width:400px) {
+    .im {
         width: 130px;
         height: auto;
         margin-right: 0%;
     }
 }
-.style
-{
+
+.style {
     text-align: left;
 }
-@media(max-width:600px)
-{
-    .style
-    {
-        text-align:center;
+
+@media(max-width:600px) {
+    .style {
+        text-align: center;
     }
 }
-.img1 .wo
-{
+
+.img1 .wo {
     padding-top: 10px;
 }
-.img1 .vo
-{
+
+.img1 .vo {
     padding-top: 0px;
 }
-.img1 .tc
-{
+
+.img1 .tc {
     padding-top: 40px;
 }
 
-.img1 .mini
-{
+.img1 .mini {
     padding-top: 10px;
 }
-@media(max-width:750px)
-{
-    .img1 .wo
-        {
-            padding-top: 0px;
-        }
 
-    .img1 .vo 
-    {
+@media(max-width:750px) {
+    .img1 .wo {
         padding-top: 0px;
     }
-    .img1 .tc
-    {
+    .img1 .vo {
         padding-top: 0px;
     }
-
-    .img1 .mini
-        {
-            padding-top: 0px;
-        }
+    .img1 .tc {
+        padding-top: 0px;
+    }
+    .img1 .mini {
+        padding-top: 0px;
+    }
 }
-.dropdown-menu
-  {
+
+.dropdown-menu {
     background-image: url('images/s.jpg');
     background-blend-mode: lighten;
     background-color: rgba(255, 255, 255, 0.8);
-  }
-  
-  .he
-  {
+}
+
+.he {
     text-align: left;
     font-weight: 520;
-  }
-  .he-inner
-  {
-  text-align: justify;
-  font-size: 25px;
-  font-weight: 530;
-  }
-  .sur
-  {
-      padding-top: 20px;
-  }
-  @media(max-width:460px)
-  {
-    .he
-    {
+}
+
+.he-inner {
+    text-align: justify;
+    font-size: 25px;
+    font-weight: 530;
+}
+
+.sur {
+    padding-top: 20px;
+}
+
+@media(max-width:460px) {
+    .he {
         font-weight: normal;
     }
-      .he-inner
-      {
-          font-weight: normal;
-          font-size: 20px;
-      }
-      .sur
-      {
-          padding-top: 0px;
-      }
-       .back
-      {
+    .he-inner {
+        font-weight: normal;
+        font-size: 20px;
+    }
+    .sur {
+        padding-top: 0px;
+    }
+    .back {
         background-image: url('images/s.jpg');
         background-blend-mode: lighten;
         background-color: rgba(255, 255, 255, 0.7);
-      }
-  }
- 
+    }
+}

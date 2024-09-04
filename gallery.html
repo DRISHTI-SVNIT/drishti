@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery</title>
+    <link rel="stylesheet" href="gallery.css">
+</head>
+
+<body>
+    <div class="gallery-grid">
+        <div class="gallery-item">
+            <img src="images/beach.jpg">
+        </div>
+        <div class="gallery-item">
+            <img src="images/Agastya.png">
+        </div>
+        <div class="gallery-item ">
+            <img src="images/mr1.JPG ">
+        </div>
+        <div class="gallery-item">
+            <img src="images/robocon 2023.jpg">
+        </div>
+        <div class="gallery-item">
+            <img src="images/reforestor.jpg">
+        </div>
+        <div class="gallery-item">
+            <img src="images/rover.jpg">
+        </div>
+        <div class="gallery-item ">
+            <img src="images/MR2.JPG ">
+        </div>
+        <div class="gallery-item">
+            <img src="images/bridge1.jpg">
+        </div>
+        <div class="gallery-item ">
+            <img src="images/image3.jpg ">
+        </div>
+        <div class="gallery-item ">
+            <img src="images/Hh.jpg  ">
+        </div>
+        <div class="gallery-item ">
+            <img src="images/farm.jpg">
+        </div>
+        <div class="gallery-item ">
+            <img src="images/hull.jpg ">
+        </div>
+        <div class="gallery-item">
+            <img src="images/Rover IRC.jpg">
+        </div>
+    </div>
+    <!-- Add more photos as needed -->
+</body>
+<script>
+    document.querySelectorAll('.gallery-item').forEach(function(item) {
+        const img = item.querySelector('img');
+        const aspectRatio = img.naturalHeight / img.naturalWidth;
+        item.style.gridRowEnd = "span " + Math.ceil(aspectRatio * 10);
+    });
+</script>
+
+</html>
